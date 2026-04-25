@@ -1,0 +1,22 @@
+{
+  "code": "OPD2511",
+  "model": "Pad 5 Pro",
+  "updatedAt": "2026-04-25T20:04:43.455Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "OPD2511_16.0.7.202(CN01)",
+      "otaVersion": "OPD2511_11.A.26_0260_202604170116",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-04-01",
+      "publishedTime": "2026-04-22T00:35:33.101Z",
+      "releaseDate": "2026-04-22",
+      "description": "【OPPO AI ，记得你才更懂你】\n新增支持生成图文并茂的摘要，支持以表格、流程图、架构图、统计图等多种形式呈现摘要结果，大幅提升摘要的可读性\n\n【有光的设计，鲜活的你】\n新增支持分别调整横屏和竖屏桌面图标、文件夹与卡片的位置，旋转后自动适配，使用更顺手\n\n【处处有细节，处处有惊喜】\n优化最近任务中的浮窗显示效果，支持平铺展示，并自动调整位置和大小\n优化浮窗显示效果。从屏幕底部上滑返回桌面时，浮窗自动避让至屏幕两侧；全屏打开新应用后，浮窗将重新调整位置与大小，减少遮挡\n优化锁屏底部快捷图标的启动动效，支持无缝启动，带来更丝滑流畅的视觉体验\n更新 Android 安全补丁至 2026 年 4 月，提升系统安全性\n\n【更新包（16.0.7.202Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "8795068576",
+      "md5": "78a61fe4315652d431bf981a92589fe3",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-239147984474bee788741d4c8b81488b/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/17/b02d26e899ed43ddaea3047c474106f2.zip?sign=24a0b0d64a8dd9923e2858b7024eaa42&t=69ecffbc&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141444&Signature=GRnKwqjbjXrAC58HW0dPg%2FD1yT8%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-239147984474bee788741d4c8b81488b/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/17/b02d26e899ed43ddaea3047c474106f2.zip?sign=24a0b0d64a8dd9923e2858b7024eaa42&t=69ecffbc&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141444&Signature=GRnKwqjbjXrAC58HW0dPg%2FD1yT8%3D"
+    }
+  ]
+}
