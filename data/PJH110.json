@@ -1,0 +1,92 @@
+{
+  "code": "PJH110",
+  "model": "Reno 11",
+  "updatedAt": "2026-04-25T20:04:40.737Z",
+  "versionCount": 6,
+  "versions": [
+    {
+      "versionName": "PJH110_16.0.3.500(CN01)",
+      "otaVersion": "PJH110_11.F.11_2110_202603161104",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-02-01",
+      "publishedTime": "2026-03-25T15:19:23.020Z",
+      "releaseDate": "2026-03-25",
+      "description": "【系统】\n优化系统稳定性与流畅性\n\n【更新包（16.0.3.500Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "7916679764",
+      "md5": "05b934111b647b5fcb1261fb4795dc86",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-6f2b9e08eac1439254edc4e799587177/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/16/8e482a1490eb49418910f169676eb256.zip?sign=39200d0c3061c620e85fb83a75acf484&t=69ecfda6&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140910&Signature=ePRDN6G581j7YZV3CPJE8bQmpVA%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-6f2b9e08eac1439254edc4e799587177/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/16/8e482a1490eb49418910f169676eb256.zip?sign=39200d0c3061c620e85fb83a75acf484&t=69ecfda6&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140910&Signature=ePRDN6G581j7YZV3CPJE8bQmpVA%3D"
+    },
+    {
+      "versionName": "PJH110_16.0.2.403(CN01)",
+      "otaVersion": "PJH110_11.F.10_2100_202602021800",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2025-12-01",
+      "publishedTime": "2026-03-11T15:00:08.012Z",
+      "releaseDate": "2026-03-11",
+      "description": "ColorOS 16 跃进革新。\n机圈德芙，更进一步，无论上限、极限还是底限，全场景，全机型，全面流畅。\nOPPO AI 行业引领，独家一键闪记，记得你才更懂你。系统处处 AI 焕新，创作得心应手。\n光场设计焕新，光与环境交相辉映。AI 灵感主题，生命力鲜活上屏。\n跨生态兼容，多端协同，随心流转。\n更有 1000 余项易用细节与月月有更新，等待上手探索。",
+      "size": "7960233863",
+      "md5": "36089ecd0409f0e16154aba21b02dd04",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-e21a8ed69b17439550ce05acbbb7023d/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/02/02/299f5ef83d58466a8d57e5443f4585d5.zip?sign=775016f1ff1d96600101e17245c2368a&t=69ecfda6&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140910&Signature=kRYKAkne1o%2BkH8hSa0BRPiraopo%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-e21a8ed69b17439550ce05acbbb7023d/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/02/02/299f5ef83d58466a8d57e5443f4585d5.zip?sign=775016f1ff1d96600101e17245c2368a&t=69ecfda6&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140910&Signature=kRYKAkne1o%2BkH8hSa0BRPiraopo%3D"
+    },
+    {
+      "versionName": "PJH110_15.0.0.870(CN01)",
+      "otaVersion": "PJH110_11.C.90_1900_202511032120",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-11-01",
+      "publishedTime": "2025-11-28T10:36:04.865Z",
+      "releaseDate": "2025-11-28",
+      "description": "【自在 AI 每一刻】\n新增停车助手支持展示支付宝停车数据，并在流体云上显示，停车取车更方便\n新增在流体云上支持显示高德地图驾车导航功能，让驾车操作更方便\n\n【处处有细节，细节有惊喜】\n新增网络检测功能，可对当前网络进行测速，查看网络状态，如：网络延迟、上传/下载速度等\n新增天气首页支持语音播报功能，可语音播报当天天气，了解天气更简单\n更新 Android 安全补丁至 2025 年 11 月，提升系统安全性",
+      "size": "7715251406",
+      "md5": "c82ce25a5f77d51924c1fd49000e6cbf",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-9147d20930643f893c24ad76b1cfac24/component-ota/25/11/05/a160191b1e9a4756ba554eb133efa695.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9147d20930643f893c24ad76b1cfac24/component-ota/25/11/05/a160191b1e9a4756ba554eb133efa695.zip"
+    },
+    {
+      "versionName": "PJH110_15.0.0.700(CN01)",
+      "otaVersion": "PJH110_11.C.71_1710_202503241658",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-03-01",
+      "publishedTime": "2025-09-25T03:47:08.543Z",
+      "releaseDate": "2025-09-25",
+      "description": "ColorOS 15 体验全面焕新。轻快流畅新体验，每一次操控尽享丝滑。AI 再进化，实用好用，激发无限创造可能。全新设计，见自然，亦见自我。自然光影诠释质感，个性多元尽兴表达。更有海量细节体验提升，越用越好用。",
+      "size": "7428333211",
+      "md5": "c1104500771c1d9846269764b7d839bd",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-9c80caa87641836987a369cef2abc17d/component-ota/25/03/25/fed42c0d9b96444c92c7a84d52e1c1fe.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9c80caa87641836987a369cef2abc17d/component-ota/25/03/25/fed42c0d9b96444c92c7a84d52e1c1fe.zip"
+    },
+    {
+      "versionName": "PJH110_14.0.0.712(CN01)",
+      "otaVersion": "PJH110_11.A.50_0500_202502171152",
+      "colorOSVersion": "ColorOS 14",
+      "androidVersion": "Android 14",
+      "securityPatch": "2025-01-01",
+      "publishedTime": "2025-08-21T10:29:47.160Z",
+      "releaseDate": "2025-08-21",
+      "description": "【系统】\n• 更新 Android 安全补丁至 2025 年 1 月，提升系统安全性",
+      "size": "7614560954",
+      "md5": "9260ed7be04d363e6f439736fce2a319",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-4304e67ca51fd39c9923c9a1bc93f9f4/component-ota/25/02/19/8b8fbab0b4974410a12998284f7ced1b.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4304e67ca51fd39c9923c9a1bc93f9f4/component-ota/25/02/19/8b8fbab0b4974410a12998284f7ced1b.zip"
+    },
+    {
+      "versionName": "PJH110_14.0.0.305(CN01)",
+      "otaVersion": "PJH110_11.A.33_0330_202401290042",
+      "colorOSVersion": "ColorOS 14",
+      "androidVersion": "Android 14",
+      "securityPatch": "2023-12-05",
+      "publishedTime": "2024-02-09T03:02:32.421Z",
+      "releaseDate": "2024-02-09",
+      "description": "【】\n辞旧迎新，万象更新，OPPO 20 周年献礼，相当科幻！与超千万用户一起率先进入 AI手机时代！\n\n【智慧】\n• 新增 AIGC 消除功能，智能识别图片内容，轻松消除多余元素，生成更加自然干净的图片\n • 新增 AI 智能通话摘要功能，智能识别通话内容，提取通话中时间、地点、日程等关键信息生成通话摘要\n • 新增文章智能摘要功能，智能识别文章内容，一键生成文章摘要，高效获取关键信息\n • 升级小布识屏功能，自动识别页面内容并提供相应的服务推荐，一键直达服务\n • 共计上百项 AI 功能，这个春节尽情探索\n\n【系统】\n• 新增应用间跳转拦截弹窗，让每一次跳转都可知可控\n • 新增设备动作与方向传感器权限设置，禁用后应用不再触发摇一摇等动作\n • 新增黑屏指纹解锁，屏幕黑屏时，手指触碰指纹区域，可以在不点亮屏幕的情况下直接完成解锁，提升解锁体验\n • 优化智慧息屏，音乐息屏新增适配 QQ 音乐\n\n【更新包（14.0.0.305Patch02）】\n[修复]若干系统问题",
+      "size": "7678800970",
+      "md5": "f66138d9d97cb811bc4483c3405ca828",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-979eff45633e0ff462997f04e7a75885/component-ota/24/01/29/59289f0e080e4bcfaacc1cc4f50dd0b5.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-979eff45633e0ff462997f04e7a75885/component-ota/24/01/29/59289f0e080e4bcfaacc1cc4f50dd0b5.zip"
+    }
+  ]
+}
