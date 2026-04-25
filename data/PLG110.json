@@ -1,0 +1,22 @@
+{
+  "code": "PLG110",
+  "model": "Find X9 Pro",
+  "updatedAt": "2026-04-25T20:03:40.115Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PLG110_16.0.5.703(CN01)",
+      "otaVersion": "PLG110_11.A.87_0870_202604091620",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T12:37:13.855Z",
+      "releaseDate": "2026-04-24",
+      "description": "【系统】\n修复创建系统分身时反复出现重置密码界面、无法创建系统分身的问题",
+      "size": "9096404666",
+      "md5": "bb737ccc1b34e3c1c4a6337caddef075",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-b30ae062f7f76bb732d38662640734b1/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/13/e764b1ea969c4224af20d9a11f297fef.zip?sign=19ed9d6dbad7810079bb3f7f1fddef68&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=jhh%2Bw4n9D6pUOcNj%2FFSVxp5qkqc%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-b30ae062f7f76bb732d38662640734b1/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/13/e764b1ea969c4224af20d9a11f297fef.zip?sign=19ed9d6dbad7810079bb3f7f1fddef68&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=jhh%2Bw4n9D6pUOcNj%2FFSVxp5qkqc%3D"
+    }
+  ]
+}
