@@ -1,0 +1,20 @@
+{
+  "code": "RMX3902",
+  "model": "真我GT7 Pro",
+  "updatedAt": "2026-04-25T20:04:52.935Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "RMX3902 - 已停止更新 (API 2004)",
+      "otaVersion": "RMX3902_11.A.00_0010_197001010000",
+      "colorOSVersion": "RMX3902 - 已停止更新 (API 2004)",
+      "androidVersion": "",
+      "securityPatch": "",
+      "publishedTime": "",
+      "releaseDate": "",
+      "description": "来源: ota_query",
+      "size": "",
+      "md5": ""
+    }
+  ]
+}
