@@ -1,0 +1,64 @@
+{
+  "code": "PJV110",
+  "model": "Reno 12",
+  "updatedAt": "2026-04-25T20:04:35.796Z",
+  "versionCount": 4,
+  "versions": [
+    {
+      "versionName": "PJV110_16.0.3.501(CN01)",
+      "otaVersion": "PJV110_11.F.12_3120_202603101548",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-02-01",
+      "publishedTime": "2026-03-19T13:25:45.250Z",
+      "releaseDate": "2026-03-19",
+      "description": "ColorOS 16 跃进革新。\n机圈德芙，更进一步，无论上限、极限还是底限，全场景，全机型，全面流畅。\nOPPO AI 行业引领，独家一键闪记，记得你才更懂你。系统处处 AI 焕新，创作得心应手。\n光场设计焕新，光与环境交相辉映。AI 灵感主题，生命力鲜活上屏。\n跨生态兼容，多端协同，随心流转。\n更有 1000 余项易用细节与月月有更新，等待上手探索。",
+      "size": "8078359008",
+      "md5": "97882fe4a579ec0b02e58799e6513245",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-c48037e582c3ba063458a36ac63fe4f9/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/11/45b788aa8a6d4ac59d65a74affbc7c7c.zip?sign=f2bcfeec3f4a93c09db7cb5c12e44cd7&t=69ecfdd1&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140953&Signature=sQokW3H67wS9CwCvGgmsST%2Fpfk4%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-c48037e582c3ba063458a36ac63fe4f9/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/11/45b788aa8a6d4ac59d65a74affbc7c7c.zip?sign=f2bcfeec3f4a93c09db7cb5c12e44cd7&t=69ecfdd1&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140953&Signature=sQokW3H67wS9CwCvGgmsST%2Fpfk4%3D"
+    },
+    {
+      "versionName": "PJV110_15.0.0.800(CN01)",
+      "otaVersion": "PJV110_11.C.90_1900_202504220329",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-04-01",
+      "publishedTime": "2025-12-18T07:46:06.551Z",
+      "releaseDate": "2025-12-18",
+      "description": "ColorOS 15 体验全面焕新。轻快流畅新体验，每一次操控尽享丝滑。AI 再进化，实用好用，激发无限创造可能。全新设计，见自然，亦见自我。自然光影诠释质感，个性多元尽兴表达。更有海量细节体验提升，越用越好用。",
+      "size": "7608121922",
+      "md5": "e54e54857708bb0a7cfe6832f6634532",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-972104d4464bc24c82f4f340d4b7404b/component-ota/25/04/22/c7fedb4e39774754963360b0222f4182.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-972104d4464bc24c82f4f340d4b7404b/component-ota/25/04/22/c7fedb4e39774754963360b0222f4182.zip"
+    },
+    {
+      "versionName": "PJV110_15.0.0.1301(CN01)",
+      "otaVersion": "PJV110_11.C.45_2450_202510301348",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-11-01",
+      "publishedTime": "2025-11-24T12:56:27.038Z",
+      "releaseDate": "2025-11-24",
+      "description": "【自在 AI 每一刻】\n新增在流体云上支持显示高德地图驾车导航功能，让驾车操作更方便\n新增停车助手支持展示支付宝停车数据，并在流体云上显示，停车取车更方便\n\n【处处有细节，细节有惊喜】\n新增网络检测功能，可对当前网络进行测速，查看网络状态，如：网络延迟、上传/下载速度等\n新增天气首页支持语音播报功能，可语音播报当天天气，了解天气更简单\n\n【系统】\n提升无人机连接兼容性\n更新 Android 安全补丁至 2025 年 11 月，提升系统安全性",
+      "size": "7901404918",
+      "md5": "e10a364adb79f50db0c816fd3c7d6fef",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-42e72ae8cad222a1c30f79eccaa868fe/component-ota/25/10/31/b94f91a6cc234857b1648cee761aa09f.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-42e72ae8cad222a1c30f79eccaa868fe/component-ota/25/10/31/b94f91a6cc234857b1648cee761aa09f.zip"
+    },
+    {
+      "versionName": "PJV110_14.1.0.614(CN01)",
+      "otaVersion": "PJV110_11.A.69_0690_202412052338",
+      "colorOSVersion": "ColorOS 14",
+      "androidVersion": "Android 14",
+      "securityPatch": "2024-12-05",
+      "publishedTime": "2025-01-10T06:36:01.270Z",
+      "releaseDate": "2025-01-10",
+      "description": "【系统】\n• 更新 Android 安全补丁至 2024 年 12 月，提升系统安全性\n\n【更新包（14.1.0.614Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "7769768389",
+      "md5": "2f5869b06b0bd315bdab84b5e63348f9",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-f54b6d63e64d97226a498db6070c48b5/component-ota/24/12/10/0c1930ac3ea748fdb070b6407416fb5f.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f54b6d63e64d97226a498db6070c48b5/component-ota/24/12/10/0c1930ac3ea748fdb070b6407416fb5f.zip"
+    }
+  ]
+}
