@@ -1,0 +1,21 @@
+{
+  "code": "PKM110",
+  "model": "Reno 13",
+  "updatedAt": "2026-04-25T20:04:30.847Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PKM110_15.0.0.863(CN01)",
+      "otaVersion": "PKM110_11.A.66_0660_202509282110",
+      "colorOSVersion": "15.0.0",
+      "androidVersion": "",
+      "securityPatch": "",
+      "publishedTime": "",
+      "releaseDate": "",
+      "description": "来源: ota_query",
+      "size": "",
+      "md5": "",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1d3fce0be2a0482fc0d0a82cfd31abd8/component-ota/25/10/09/9b03d01f588043ddb606a24b7c5b5436.zip"
+    }
+  ]
+}
