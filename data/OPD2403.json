@@ -1,0 +1,20 @@
+{
+  "code": "OPD2403",
+  "model": "Pad 5",
+  "updatedAt": "2026-04-25T20:04:45.688Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "OPD2403 - 已停止更新 (API 2004)",
+      "otaVersion": "OPD2403_11.A.00_0010_197001010000",
+      "colorOSVersion": "OPD2403 - 已停止更新 (API 2004)",
+      "androidVersion": "",
+      "securityPatch": "",
+      "publishedTime": "",
+      "releaseDate": "",
+      "description": "来源: ota_query",
+      "size": "",
+      "md5": ""
+    }
+  ]
+}
