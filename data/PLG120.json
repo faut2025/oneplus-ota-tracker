@@ -1,0 +1,22 @@
+{
+  "code": "PLG120",
+  "model": "Find X9 Pro卫星",
+  "updatedAt": "2026-04-25T20:03:42.397Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PLG120_16.0.5.703(CN01)",
+      "otaVersion": "PLG120_11.A.87_0870_202604091621",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T12:37:14.741Z",
+      "releaseDate": "2026-04-24",
+      "description": "【系统】\n修复创建系统分身时反复出现重置密码界面、无法创建系统分身的问题",
+      "size": "9106826386",
+      "md5": "c230fba70d75ccda747ccb5ac54a0cca",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-0022f22bb64a4055d131b75be9949667/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/13/e378623a2b3841b1b5252518a6aa1c99.zip?sign=0b16fa952e53672161cc0d7268d3a254&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=pOlc4M%2FDownMD3cGO9v5JOKtgzo%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-0022f22bb64a4055d131b75be9949667/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/13/e378623a2b3841b1b5252518a6aa1c99.zip?sign=0b16fa952e53672161cc0d7268d3a254&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=pOlc4M%2FDownMD3cGO9v5JOKtgzo%3D"
+    }
+  ]
+}
