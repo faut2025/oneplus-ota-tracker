@@ -1,0 +1,50 @@
+{
+  "code": "PKT110",
+  "model": "Find X8s",
+  "updatedAt": "2026-04-25T20:03:54.141Z",
+  "versionCount": 3,
+  "versions": [
+    {
+      "versionName": "PKT110_16.0.5.703(CN01)",
+      "otaVersion": "PKT110_11.C.55_1550_202604101220",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T12:37:18.766Z",
+      "releaseDate": "2026-04-24",
+      "description": "【系统】\n修复概率性无法创建系统分身",
+      "size": "8832995165",
+      "md5": "348c7edeb020364d96e90adc9b8f60b0",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-d42876a1394453f922a9dc510c486700/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/12/87f22ce6787a44f28a6d815d8ae6add0.zip?sign=40df6e911606376a4b293e10e464195d&t=69ecffb3&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141435&Signature=3QOkkP831G3IbBNmPGYTjBdy4sc%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-d42876a1394453f922a9dc510c486700/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/12/87f22ce6787a44f28a6d815d8ae6add0.zip?sign=1ca95d29428c2c4e42123e6a05027032&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=Co2D32ZwJvjg51xEVLsCps4Ryb4%3D"
+    },
+    {
+      "versionName": "PKT110_16.0.0.205(CN01)",
+      "otaVersion": "PKT110_11.C.42_1420_202510250046",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2025-10-01",
+      "publishedTime": "2025-12-10T08:47:51.647Z",
+      "releaseDate": "2025-12-10",
+      "description": "ColorOS 16 跃进革新。\n机圈德芙，更进一步，无论上限、极限还是底限，全场景，全机型，全面流畅。\nOPPO AI 行业引领，独家一键闪记，记得你才更懂你。系统处处 AI 焕新，创作得心应手。\n光场设计焕新，光与环境交相辉映。AI 灵感主题，生命力鲜活上屏。\n跨生态兼容，多端协同，随心流转。\n更有 1000 余项易用细节与月月有更新，等待上手探索。",
+      "size": "8748577992",
+      "md5": "8b32f932ab1c89a41de80beb5d63e1e5",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-42aef723542e1427d1d2e817a4517ef8/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/25/10/25/257a03d8f45946f48e9cad7a67edec5c.zip?sign=634990b0433e9f37c171075591ea734d&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=%2BAG%2FTl7RWiyxDSna9qwQHIQFJ6c%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-42aef723542e1427d1d2e817a4517ef8/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/25/10/25/257a03d8f45946f48e9cad7a67edec5c.zip?sign=634990b0433e9f37c171075591ea734d&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=%2BAG%2FTl7RWiyxDSna9qwQHIQFJ6c%3D"
+    },
+    {
+      "versionName": "PKT110_15.0.1.620(CN01)",
+      "otaVersion": "PKT110_11.A.61_0610_202508211418",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-09-01",
+      "publishedTime": "2025-09-19T00:55:31.417Z",
+      "releaseDate": "2025-09-19",
+      "description": "【自在 AI 每一刻】\n新增在小布建议上显示日历、黄历卡片，查看农历及宜忌事宜更方便\n优化 AI 搜索结果，在便签、文档、相册、小布记忆中使用 AI 搜索时，仅能搜索到本应用的数据，搜索更准确\n\n【开启流畅新境界】\n优化锁屏时点击流体云卡片和通知消息的动画效果，操作更跟手、更流畅\n\n【处处有细节，细节有惊喜】\n新增在部分应用中长按选择文字后，可以点击翻译菜单随时翻译，方便又快捷\n新增地图图集，支持在地图内查看所有带定位信息的图片\n新增支持在桌面添加汇率换算卡片，换算更便捷\n新增将照片从私密图集中解除私密后，照片可恢复到原来的位置，方便查找\n新增在私密保险箱的二级页面增加设置入口，方便随时修改隐私密码，也可以从相册的私密图集中修改隐私密码\n新增支持在桌面添加日历·黄历卡片，方便查看黄历信息\n新增短信中支持开启或关闭最近删除开关，可以选择是否需要保留最近删除的短信（短信-右上角更多按钮-设置-最近删除）\n新增支持通过钱包应用开通上汽名爵 MG4 车型的蓝牙车钥匙和车控，开通后，可体验手机靠近车辆无感解锁、远离自动锁车；并可在负一屏/桌面添加\"我的车辆\"卡片，方便查看车况以及一键控车或小布语音控车\n新增支持通过智慧车载连接上汽名爵 MG4 车型，可以使用融合桌面-镜像的投屏方式。并支持网络共享，开启与车辆共享网络后自动共享手机流量给车辆\n新增在车机端应用商店支持查看更多体验应用\n优化使用智慧车载经典投屏模式时的画面切换动效，操作更丝滑\n优化手机端投屏应用管理界面布局，管理应用更加便捷\n优化红外遥控应用中遥控面板上按键的位置布局，操作更方便\n优化相册云服务设置页的存储空间页面，增加了保留原始照片、替换为高质量缩略图开关\n优化翻译应用中中英文语音播报音色为小布超拟人音色，增加男性音色，更丰富更自然\n\n【系统】\n更新 Android 安全补丁至 2025 年 9 月，提升系统安全性\n\n【更新包（15.0.1.620Patch02）】\n• 优化部分场景的系统稳定性",
+      "size": "8489728320",
+      "md5": "1405368bba77dbeb14c6128ed1c5b124",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-42ce391b875e9c2477188c1fd63d94c8/component-ota/25/08/22/245f8056cf13495bae3ebcc13ef06135.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-42ce391b875e9c2477188c1fd63d94c8/component-ota/25/08/22/245f8056cf13495bae3ebcc13ef06135.zip"
+    }
+  ]
+}
