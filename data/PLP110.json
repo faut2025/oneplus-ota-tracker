@@ -1,0 +1,22 @@
+{
+  "code": "PLP110",
+  "model": "Find N6",
+  "updatedAt": "2026-04-25T20:03:23.421Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PLP110_16.0.5.705(CN01)",
+      "otaVersion": "PLP110_11.A.29_0290_202604091931",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T02:25:37.986Z",
+      "releaseDate": "2026-04-24",
+      "description": "【自在 AI 每一刻，越用越懂你】\n新增小布记忆账单导入功能，支持导入微信、支付宝账单表格到账单合集中，让账单更完整\n新增小布记忆支持识别部分应用中聊天转账信息、红包信息，并记录到账单中，提升账单的完整和准确性\n优化小布记忆记账分类，支持识别数码、美妆、美容、二手交易等更多账单分类，让账单更清晰\n\n【处处有细节，智享生活】\n新增晕动舒缓显示功能，缓解在乘车时使用手机的晕车感受（设置-辅助功能-晕动舒缓显示）\n新增支持在桌面添加 2×1 和 2×2 尺寸空气质量卡片\n新增支持在桌面添加 2×1 尺寸天气时钟卡片 ，长按拖拽可调整卡片大小，使用更灵活\n优化部分应用使用相机拍照或视频时的成像效果，提升使用体验\n优化微信音视频通话及使用输入法输入时的振动效果，提升使用体验\n优化拍照算法，提升图像成像品质\n优化应用启动与退出时的内存占用，提升系统流畅性\n提升蜂窝通信兼容性和稳定性\n修复创建系统分身设置密码后，分身创建失败并提示需使用新锁屏密码的问题\n\n【无缝衔接，智慧互联】\n新增手机接续车机投屏导航功能。手机与车机连接时，可将车机高德导航流转至手机继续导航\n新增车机投屏应用支持微信（设置-设备互联-智慧车载-我的车辆-更多功能-投屏设置-应用管理）\n新增支持通过“地址导航”功能提前发送目的地地址，手机与车机连接后自动发起导航，便捷高效（设置-设备互联-智慧车载-我的车辆-地址导航）\n优化磁吸配件和手机的兼容性，提升配件使用体验\n\n【更新包（16.0.5.705Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "9843171204",
+      "md5": "5a55af3688eefb1e4d64413a061d11b7",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-358503e403e6609573a7f8839c5522b4/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/09/a9fc4d310b604d9896f9321c2bf3b393.zip?sign=5ca74dbdced38b5d464db268f31216bd&t=69ecff99&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141409&Signature=Its%2F7VA9Z73MoZhUEzt5TWVv7uw%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-358503e403e6609573a7f8839c5522b4/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/09/a9fc4d310b604d9896f9321c2bf3b393.zip?sign=5ca74dbdced38b5d464db268f31216bd&t=69ecff99&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141409&Signature=Its%2F7VA9Z73MoZhUEzt5TWVv7uw%3D"
+    }
+  ]
+}
