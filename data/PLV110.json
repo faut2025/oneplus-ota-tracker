@@ -1,0 +1,22 @@
+{
+  "code": "PLV110",
+  "model": "Reno 15 Pro",
+  "updatedAt": "2026-04-25T20:04:16.303Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PLV110_16.0.5.704(CN01)",
+      "otaVersion": "PLV110_11.A.59_0590_202604021351",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T09:52:44.462Z",
+      "releaseDate": "2026-04-24",
+      "description": "【系统】\n优化部分场景下的系统稳定性与流畅性",
+      "size": "8826747929",
+      "md5": "83f9faeee4c00e902ffca14ff49cdd31",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-14ff235e9f668ebb48bb7caf08c8810a/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/03/b837e11ca70648d49068bdce7a837d9f.zip?sign=733080fff7e4b558b2de613fe24d39b4&t=69ecfdda&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140962&Signature=SdvoqGWHRcy5CYW2u9gjoYnt%2Fmk%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-14ff235e9f668ebb48bb7caf08c8810a/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/03/b837e11ca70648d49068bdce7a837d9f.zip?sign=733080fff7e4b558b2de613fe24d39b4&t=69ecfdda&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140962&Signature=SdvoqGWHRcy5CYW2u9gjoYnt%2Fmk%3D"
+    }
+  ]
+}
