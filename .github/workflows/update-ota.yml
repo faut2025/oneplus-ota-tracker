@@ -1,0 +1,57 @@
+name: Update OTA Info
+
+on:
+  schedule:
+    # 每周一 UTC 09:00 运行 (= 北京时间周一 17:00)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch OTA data
+        run: |
+          curl -s "https://ota-tracker.linesoft.top/api/ota" \
+            -H "accept: application/json" \
+            -o data/ota_info.json
+          
+          # 确保输出目录存在
+          mkdir -p data
+          
+          # 显示获取到的数据摘要
+          if [ -f data/ota_info.json ]; then
+            echo "获取成功，数据大小: $(wc -c < data/ota_info.json) bytes"
+            echo "数据概览:"
+            head -c 500 data/ota_info.json
+            echo "..."
+          else
+            echo "获取失败"
+            exit 1
+          fi
+
+      - name: Update GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          publish_branch: gh-pages
+          user_name: 'GitHub Actions'
+          user_email: 'actions@github.com'
+          commit_message: 'Auto update OTA info - ${{ github.event.head_commit.message }}'
+
+      - name: Show deployed URL
+        run: |
+          echo "✅ OTA 信息已更新！"
+          echo "GitHub Pages 地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
