@@ -1,0 +1,50 @@
+{
+  "code": "PKJ110",
+  "model": "Find X8 Ultra",
+  "updatedAt": "2026-04-25T20:03:46.927Z",
+  "versionCount": 3,
+  "versions": [
+    {
+      "versionName": "PKJ110_16.0.5.702(CN01)",
+      "otaVersion": "PKJ110_11.C.65_1650_202604091920",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-03-01",
+      "publishedTime": "2026-04-24T12:36:50.273Z",
+      "releaseDate": "2026-04-24",
+      "description": "【系统】\n修复概率性无法创建系统分身\n\n【更新包（16.0.5.702Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "9464795824",
+      "md5": "175692baf11635764fb1f9b293d22feb",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-7332bb340155e182aed87a8e177a0e7c/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/10/75700e04ab0f44228284be0eb6c7600f.zip?sign=00b3c3341aa726cbd8d18de8109ceccf&t=69ecffb3&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141435&Signature=tazKidE6WzAVxzw4lgYIi0IrHGY%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-7332bb340155e182aed87a8e177a0e7c/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/10/75700e04ab0f44228284be0eb6c7600f.zip?sign=00b3c3341aa726cbd8d18de8109ceccf&t=69ecffb3&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141435&Signature=tazKidE6WzAVxzw4lgYIi0IrHGY%3D"
+    },
+    {
+      "versionName": "PKJ110_16.0.0.212(CN01)",
+      "otaVersion": "PKJ110_11.C.49_1490_202510250036",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2025-10-01",
+      "publishedTime": "2025-12-23T03:29:59.927Z",
+      "releaseDate": "2025-12-23",
+      "description": "ColorOS 16 跃进革新。\n机圈德芙，更进一步，无论上限、极限还是底限，全场景，全机型，全面流畅。\nOPPO AI 行业引领，独家一键闪记，记得你才更懂你。系统处处 AI 焕新，创作得心应手。\n光场设计焕新，光与环境交相辉映。AI 灵感主题，生命力鲜活上屏。\n跨生态兼容，多端协同，随心流转。\n更有 1000 余项易用细节与月月有更新，等待上手探索。",
+      "size": "9497206873",
+      "md5": "3d758b4da350de2dca8a6825984d5486",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-f7f22762d18db4834fc090805945376f/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/25/10/25/72e6ad2443e14a6fa9d601d836cd837b.zip?sign=be2f6f061b7c4f0ef80a2df829bcc480&t=69ecffb3&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141435&Signature=F84QVvP4YNxa5pGHme2uCfma16Q%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-f7f22762d18db4834fc090805945376f/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/25/10/25/72e6ad2443e14a6fa9d601d836cd837b.zip?sign=cd474ab19c87162a77978d1d1247b4f5&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=BUGanA%2F7iOyop5s06inSwlrXVTU%3D"
+    },
+    {
+      "versionName": "PKJ110_15.0.1.622(CN01)",
+      "otaVersion": "PKJ110_11.A.63_0630_202509191808",
+      "colorOSVersion": "ColorOS 15",
+      "androidVersion": "Android 15",
+      "securityPatch": "2025-09-01",
+      "publishedTime": "2025-10-11T13:59:27.317Z",
+      "releaseDate": "2025-10-11",
+      "description": "【系统】\n提升系统稳定性\n\n【更新包（15.0.1.622Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "8959494197",
+      "md5": "0e06b14fd353c14855c21312d00bd158",
+      "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-597237fbc7ad420be77f7acbc2df02f8/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip",
+      "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-597237fbc7ad420be77f7acbc2df02f8/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip"
+    }
+  ]
+}
