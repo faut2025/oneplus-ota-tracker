@@ -1,0 +1,22 @@
+{
+  "code": "PMA120",
+  "model": "Find X9 Ultra卫星",
+  "updatedAt": "2026-04-25T20:03:35.145Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "versionName": "PMA120_16.0.7.202(CN01)",
+      "otaVersion": "PMA120_11.A.39_0390_202604170625",
+      "colorOSVersion": "ColorOS 16",
+      "androidVersion": "Android 16",
+      "securityPatch": "2026-04-01",
+      "publishedTime": "2026-04-25T14:53:18.979Z",
+      "releaseDate": "2026-04-25",
+      "description": "【相机】\n新增专业视频模式支持 3 款还原 LUT ，直出好肤色，阴天也能轻松出片\n新增 XPAN 模式支持和光、浓郁、反差黑白滤镜，提供更丰富的胶片质感\n优化相机拍照的画质和对焦准确性\n优化照片模式拍照性能表现，拍照更流畅稳定\n\n【OPPO AI ，记得你才更懂你】\n新增 AI 简报支持提供更多个性化资讯，围绕早中晚、通勤、旅行等核心场景，为你提供更智能、更贴心的服务\n新增支持生成图文并茂的摘要，支持以表格、流程图、架构图、统计图等多种形式呈现摘要结果，大幅提升摘要的可读性\n\n【处处有细节，处处有惊喜】\n新增支持在相册中对 2 亿像素的照片进行无损编辑和保存\n系统应用动效升级。短信、天气、日历等应用页面切换支持全新无缝动效，从查短信、查天气到新建日程，每一次点击都如行云流水般自然，带来更流畅的无缝体验\n使用技巧应用中新增影调大师参数库，收录多款精美的大师模式照片和参数，一键就能拍同款\n\n【通信与互联】\n提升通信系统稳定性和兼容性\n\n【更新包（16.0.7.202Patch01）】\n• 优化部分场景的系统稳定性",
+      "size": "9808282004",
+      "md5": "31cfdcfa6c320d6a3946d89646274450",
+      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-ab7587b521e5e29010024030a6878052/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/17/b1c1335965d641579661b0c2693a7257.zip?sign=a8ec4832f1a2fecee970e5c9b22e980d&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=C43dcMdGfTbBSXkWb2JfeShyAYk%3D",
+      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-ab7587b521e5e29010024030a6878052/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/17/b1c1335965d641579661b0c2693a7257.zip?sign=a8ec4832f1a2fecee970e5c9b22e980d&t=69ecffb9&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141441&Signature=C43dcMdGfTbBSXkWb2JfeShyAYk%3D"
+    }
+  ]
+}
