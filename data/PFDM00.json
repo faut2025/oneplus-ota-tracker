@@ -1,0 +1,33 @@
+{
+  "code": "PFDM00",
+  "model": "PFDM00",
+  "updatedAt": "2026-04-26T03:35:32.464Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PFDM00_11.A.00_0010_197001010000",
+      "version_name": "PFDM00 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:25.857124",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PFDM00_11.A.20_0200_202203181855",
+      "version_name": "PFDM00_11_A.20",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 12",
+      "security_patch": "2022-03-05",
+      "status": "found",
+      "published_time": "2022-04-06 14:10:56",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f990bc33dc7dc82660a884e8ddb428a8/component-ota/22/03/19/1741efe53a2743509ba6e221da071623.zip",
+      "size": "1177320",
+      "md5": "1e7a7c2d3af74852976cd64b172328b2",
+      "discovered_at": "2026-04-25T15:21:44.830246",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
