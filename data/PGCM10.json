@@ -1,0 +1,33 @@
+{
+  "code": "PGCM10",
+  "model": "PGCM10",
+  "updatedAt": "2026-04-26T03:35:32.467Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PGCM10_11.A.00_0010_197001010000",
+      "version_name": "PGCM10 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:20.381795",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PGCM10_11.A.06_0060_202205202113",
+      "version_name": "PGCM10_11_A.06",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.1",
+      "security_patch": "2022-05-05",
+      "status": "found",
+      "published_time": "2022-06-02 15:09:09",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-72f0fe5e8bc63641918b3b32aebb158b/component-ota/22/05/23/ca274573974a4e2e956f018920802365.zip",
+      "size": "1191309",
+      "md5": "6b273a6456e238fef6582c39a1bb7c61",
+      "discovered_at": "2026-04-25T15:21:51.916186",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
