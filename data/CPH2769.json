@@ -1,0 +1,58 @@
+{
+  "code": "CPH2769",
+  "model": "CPH2769",
+  "updatedAt": "2026-04-26T03:35:32.447Z",
+  "versionCount": 5,
+  "versions": [
+    {
+      "version_name": "CPH2769_16.0.5.703(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15R (EU)",
+      "download_url": "https://component-ota-eu.allawnos.com/downloadCheck?c=13faaae4bfdaa3f7efbae417765a6e86&p=c25c9713dab1a25e809e37f73e3deb1705a38d4bf7df73732b3f8af9009d6ed7146ca8a635ded53b63af181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=c77d988cf017666bc7844b1fd0051be3&id=69ce30b99e207b01827bfc30&taste=1&supportDLTaste=0&mode=1&s=03b8a4c181629951e90627bf60ce2278",
+      "discovered_at": "2026-04-25T02:37:25.235563",
+      "ota_version": "CPH2769_11.A.38_0380_202604021323",
+      "version_name_coloros": "ColorOS: CPH2769_16.0.5.703(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2769_16.0.5.701(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15R (EU)",
+      "download_url": "https://component-ota-eu.allawnos.com/downloadCheck?c=6be42d4125c448cfb43c3f354f1d2a49&p=c25c9713dab6a25f839e3af26b6ce91607f68f1cff8c73277c648aff06c63cdc1168a8f630dbde3862a9181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=8ab262e68c69d3022cb7be749452ef72&id=69b1080a007ddc017e040890&taste=1&supportDLTaste=0&mode=1&s=0ecc96bcdef69a85fc17ae6b0828f429",
+      "discovered_at": "2026-04-25T02:37:25.235563",
+      "ota_version": "CPH2769_11.A.36_0360_202603102343",
+      "version_name_coloros": "ColorOS: CPH2769_16.0.5.701(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2769_16.0.3.503(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15R (GLO)",
+      "download_url": "https://component-ota-sg.allawnos.com/downloadCheck?c=e1abd83f23c7e0a01a9e80e0fc44fed2&p=f088224e00691388a0bc940c116480604f7f18937830c0e9764f9e859891843013b0644cf45c78e6175e452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=2fe1737af25cdfdc112af107beb8bc23&id=69829b5f9e207b017baaddab&taste=0&supportDLTaste=0&mode=1&s=c601b8f894c372c7a77d10378ff4729d",
+      "discovered_at": "2026-04-25T02:37:25.235563",
+      "ota_version": "CPH2769_11.A.34_0340_202602032331",
+      "version_name_coloros": "ColorOS: CPH2769_16.0.3.503(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2769_16.0.3.501(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15R (EU)",
+      "download_url": "https://component-ota-eu.allawnos.com/downloadCheck?c=31a5659a6622f588f4d43e51aca32fd7&p=c25c9713dab4a25c829e33a46c6fbc1206f2891cf58d73277e3fd2f9039068d54536fef73489d53b67ab181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=0df3d6f70cc48a806e966b77a8f94910&id=698a88969e207b017baae630&taste=0&supportDLTaste=0&mode=1&s=7eaada378b867c553e515b8de8e3d5f5",
+      "discovered_at": "2026-04-25T02:37:25.235563",
+      "ota_version": "CPH2769_11.A.32_0320_202601201439",
+      "version_name_coloros": "ColorOS: CPH2769_16.0.3.501(EX01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "CPH2769_11.A",
+      "version_name": "CPH2769_11.A",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
