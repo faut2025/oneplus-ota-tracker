@@ -1,8 +1,8 @@
 {
   "code": "PKJ110",
   "model": "Find X8 Ultra",
-  "updatedAt": "2026-04-25T20:03:46.927Z",
-  "versionCount": 3,
+  "updatedAt": "2026-04-26T03:35:32.556Z",
+  "versionCount": 4,
   "versions": [
     {
       "versionName": "PKJ110_16.0.5.702(CN01)",
@@ -45,6 +45,23 @@
       "md5": "0e06b14fd353c14855c21312d00bd158",
       "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-597237fbc7ad420be77f7acbc2df02f8/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip",
       "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-597237fbc7ad420be77f7acbc2df02f8/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip"
+    },
+    {
+      "ota_version": "PKJ110_11.A.63_0630_202509191808",
+      "version_name": "PKJ110_15.0.1.622(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-09-01",
+      "status": "published",
+      "published_time": 1760191167,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-0df465bc00f37aa9405ecd4eb4f8c5b6/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0df465bc00f37aa9405ecd4eb4f8c5b6/component-ota/25/09/20/b14de3f16b8c42409fbc5cbb246b6c12.zip",
+      "size": "8959494197",
+      "md5": "0e06b14fd353c14855c21312d00bd158",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-0df465bc00f37aa9405ecd4eb4f8c5b6/component-ota/25/10/11/00740d15da4148a6b779d4a515534900.html",
+      "discovered_at": "2026-04-25T02:54:58.520455",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
