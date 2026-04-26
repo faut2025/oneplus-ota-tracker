@@ -1,0 +1,47 @@
+{
+  "code": "OPD2505",
+  "model": "OPD2505",
+  "updatedAt": "2026-04-26T03:35:32.455Z",
+  "versionCount": 4,
+  "versions": [
+    {
+      "version_name": "OPD2505_16.0.5.701(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus Pad Go 2 5G(IN)",
+      "download_url": "https://component-ota-in.allawnos.com/downloadCheck?c=07bb186bbd52ee8c43ac463ab4b59a7a&p=a50845bd674c8545cc604345651d728478df10f511424430577085b8a1c3da835c0bf3c696c785abb55d4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=60f03ad2659afa165b14abe185f10ceb&id=69e8826e9e207b01827c1b6c&taste=0&supportDLTaste=0&mode=1&s=8e55f4f1168d9fca08a135bc780c8f1e",
+      "discovered_at": "2026-04-25T02:37:25.238763",
+      "ota_version": "OPD2505_11.A.29_0290_202603181419",
+      "version_name_coloros": "ColorOS: OPD2505_16.0.5.701(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2505_16.0.2.412(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus Pad Go 2 5G (EU)",
+      "download_url": "https://component-ota-eu.allawnos.com/downloadCheck?c=05167867a9da17ff7041bacf11c2609b&p=c25c9713dab4a25c859e60a23a60b94206f7894fa38d737a7d3389f908c768d71c3afbf96680d43866f8181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=1edbeac31b8343f2b2b7946687e36bfd&id=6978dd9b007ddc017e03d1df&taste=0&supportDLTaste=0&mode=1&s=3240385a42ca83027cfbdb5ed1b00bd0",
+      "discovered_at": "2026-04-25T02:37:25.238763",
+      "ota_version": "OPD2505_11.A.25_0250_202601271856",
+      "version_name_coloros": "ColorOS: OPD2505_16.0.2.412(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2505_16.0.2.411(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus Pad Go 2 5G(GLO)",
+      "download_url": "https://component-ota-sg.allawnos.com/downloadCheck?c=2ade5cab64cc301b7248a8c403abb94d&p=f088224e006a1389a2bc925616648364167f44c62a64c0e12e4b9d8199c6d26512e5624cae5c7bb21658452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=dcc3c36e92c626f72603835454c1b265&id=696a332f9e207b017baabbdb&taste=0&supportDLTaste=0&mode=1&s=e1faa80f7cbd1e34956c8d19f1485700",
+      "discovered_at": "2026-04-25T02:37:25.238763",
+      "ota_version": "OPD2505_11.A.24_0240_202601161215",
+      "version_name_coloros": "ColorOS: OPD2505_16.0.2.411(EX01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "OPD2505_11.A",
+      "version_name": "OPD2505_11.A",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
