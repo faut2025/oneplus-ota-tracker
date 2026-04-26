@@ -1,0 +1,33 @@
+{
+  "code": "PEQM00",
+  "model": "PEQM00",
+  "updatedAt": "2026-04-26T03:35:32.461Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PEQM00_11.A.00_0010_197001010000",
+      "version_name": "PEQM00 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:27.622094",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PEQM00_11.A.25_0250_202205211956",
+      "version_name": "PEQM00_11_A.25",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.3",
+      "security_patch": "2022-04-05",
+      "status": "found",
+      "published_time": "2022-05-30 21:57:02",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ecfebdcf05c72afb51e76293825060d4/component-ota/22/05/23/7e9243860c764a8580e965d0a1ca89ea.zip",
+      "size": "1298878",
+      "md5": "08a1e63dd0b3468c8028f9947e54177b",
+      "discovered_at": "2026-04-25T15:21:40.093785",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
