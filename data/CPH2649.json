@@ -1,0 +1,91 @@
+{
+  "code": "CPH2649",
+  "model": "CPH2649",
+  "updatedAt": "2026-04-26T03:35:32.439Z",
+  "versionCount": 8,
+  "versions": [
+    {
+      "version_name": "CPH2649_16.0.5.703(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://component-ota-in.allawnos.com/downloadCheck?c=84da4732398aa22ab9a6a423ac795279&p=a50845bd674b8544c66011423e467dd27a8a4aa8171744610276ddeea091d9d5090da4c3c5c7d1f7e05b4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=cc12450d0e02260f23b1d4881f352023&id=69ce7db49e207b01827bfcde&taste=1&supportDLTaste=0&mode=1&s=5db87ccc1f9e8152eeadbab0bd6e9100",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.F.88_2880_202604012207",
+      "version_name_coloros": "ColorOS: CPH2649_16.0.5.703(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_16.0.5.701(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://component-ota-in.allawnos.com/downloadCheck?c=c024a369b7ab1d02103344f8959c904f&p=a50845bd674c8544cd6017126e1a74d57fdc10fb4c1044620574deb9f59589800c51f1c490c6d6a8b50f4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=659f64642f2fa766facc5af4490fa779&id=69ae6109007ddc017e040352&taste=1&supportDLTaste=0&mode=1&s=0da15898858a89c08661e89287990b98",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.F.86_2860_202603061816",
+      "version_name_coloros": "ColorOS: CPH2649_16.0.5.701(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_16.0.3.501(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://component-ota-in.allawnos.com/downloadCheck?c=67882bd54cbc14cbdaad155430e2b29c&p=a50845bd674e8544c3601310391a778374894df8444f44675875debffcc5d586010aa79292c987f7e35c4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=d0990cc5e691b69e8834031193721db4&id=69733772007ddc017e03cbc4&taste=0&supportDLTaste=0&mode=1&s=3d382106c09c4a17cb096aa12db27b63",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.F.85_2850_202601060235",
+      "version_name_coloros": "ColorOS: CPH2649_16.0.3.501(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_16.0.0.210(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://component-ota-in.allawnos.com/downloadCheck?c=5d5e7c9f7939f7f8e10c956e61a41446&p=a50846bd664f8546c760164f694a7cd97bd14bfa4213446c5320debdf396dc845b5cf0c6cacdd4ace30c4b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=a602224ac26c629e3fa9908067e8bbbf&id=6915b3669e207b017bdeb5fb&taste=0&supportDLTaste=0&mode=1&s=c63908dfa38a32fdadc608dc9f702373",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.F.74_2740_202510230519",
+      "version_name_coloros": "ColorOS: CPH2649_16.0.0.210(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_15.0.0.860(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://gauss-componentotamanual.allawnofs.com/remove-cf0041f044f6e6f9ff30c88076931900/component-ota/25/09/01/38ac619581e94bc2b3ffcb5d50592b46.zip",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.C.68_1680_202508292049",
+      "version_name_coloros": "ColorOS: CPH2649_15.0.0.860(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_15.0.0.821(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://gauss-componentotamanual.allawnofs.com/remove-e5d870557422494df2632feb975ca773/component-ota/25/04/28/8747a387d2024e9a924dc8624126d4a2.zip",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.C.52_1520_202504271301",
+      "version_name_coloros": "ColorOS: CPH2649_15.0.0.821(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2649_15.0.0.703(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 13 (IN)",
+      "download_url": "https://gauss-componentotamanual.allawnofs.com/remove-8242d244558c95a44f61bb47524fa015/component-ota/25/03/21/2fd29e08b33d49ec9ec0ebb44e85b29d.zip",
+      "discovered_at": "2026-04-25T02:37:25.230488",
+      "ota_version": "CPH2649_11.A.45_0450_202503211524",
+      "version_name_coloros": "ColorOS: CPH2649_15.0.0.703(EX01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "CPH2649_11.A",
+      "version_name": "CPH2649_11.A",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
