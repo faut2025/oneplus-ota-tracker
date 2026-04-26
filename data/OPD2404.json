@@ -1,0 +1,91 @@
+{
+  "code": "OPD2404",
+  "model": "OPD2404",
+  "updatedAt": "2026-04-26T03:35:32.451Z",
+  "versionCount": 8,
+  "versions": [
+    {
+      "version_name": "OPD2404_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=5adca3fc47cf30bf1a5d0bcbaf5c39ef&p=a6c78fdd3756888b30ced9a9419b32679e78fbe41f3554f182bc03eec57d529befeb63ddb47b3776b53bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=31e6bd09040017b2286c0fc9709b4cf6&id=69bb61ad9e207b017bab12f2&taste=1&supportDLTaste=0&mode=1&s=b7a8bd1b3ce570ab4b431e1e3caefbf8",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.F.28_2280_202603181026",
+      "version_name_coloros": "ColorOS: OPD2404_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_16.0.3.501(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=f24db2849f91128e782adc132ed73746&p=a6c78fdd375488883bce8cfd449b6065c676fcb5193254f483b85ab8957954c4ecba34dbb12a3526ba6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69718b4c007ddc017e03c82d&taste=1&supportDLTaste=0&mode=1&s=ed0a73baef9bf9e270b7c35910127204",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.F.27_2270_202601201249",
+      "version_name_coloros": "ColorOS: OPD2404_16.0.3.501(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_16.0.1.301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=b579457a6bf095dc6db6b729ab88cb7a&p=a6c78cdd3657888b3bce8ba643973960c126f8e5426754a1d1ef5bb1977d5593edeb66deb1796127b83ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694ceda1007ddc017e0394bd&taste=0&supportDLTaste=0&mode=1&s=83f8843892d4af9ddaf4373ce13e34ac",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.F.25_2250_202512102150",
+      "version_name_coloros": "ColorOS: OPD2404_16.0.1.301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_16.0.0.202(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=24ceef0d413a4f747e43de9732a2a9a8&p=a6c78cdd3655888938cedda6429a33359474fbe14e3454ff81ba5aed902f5393e9bd628fe62e6320ee3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69154308007ddc017e7775d5&taste=0&supportDLTaste=0&mode=1&s=95caf20a74f43580c12465fa3efbb168",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.F.21_2210_202510311254",
+      "version_name_coloros": "ColorOS: OPD2404_16.0.0.202(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_15.0.0.601(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e65a4acafad764dba924283dd5c18908/component-ota/25/02/22/e47e6777329945c598afcd1f8420fb81.zip",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.C.17_1170_202502211920",
+      "version_name_coloros": "ColorOS: OPD2404_15.0.0.601(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_15.0.0.1301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f115ac883a28dc687f2b1a075d0660ca/component-ota/25/09/02/d90c9a3b40c34d35b619993947063e25.zip",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.C.24_1240_202508260038",
+      "version_name_coloros": "ColorOS: OPD2404_15.0.0.1301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "OPD2404_14.1.0.602(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加平板PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fe602196f815ca68b3e6f53389c46af8/component-ota/24/10/25/1f486d919ce84b6cb180d06843dcf788.zip",
+      "discovered_at": "2026-04-25T02:37:25.270489",
+      "ota_version": "OPD2404_11.A.65_0650_202410241801",
+      "version_name_coloros": "ColorOS: OPD2404_14.1.0.602(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "OPD2404_11.A.31_0310_202406221852",
+      "version_name": "OPD2404_11.A.31_0310_202406221852",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
