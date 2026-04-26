@@ -1,0 +1,25 @@
+{
+  "code": "RMX3700",
+  "model": "RMX3700",
+  "updatedAt": "2026-04-26T03:35:32.507Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX3700_11.A.25_0250_202311061652",
+      "version_name": "RMX3700_13.1.0.121(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-10-05",
+      "status": "published",
+      "published_time": 1700720822,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d68520491e4c61765b7f4dc51bfe03e8/component-ota/23/11/08/c3ebc4176f8a4223a3a7bb682e57dfd0.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d68520491e4c61765b7f4dc51bfe03e8/component-ota/23/11/08/c3ebc4176f8a4223a3a7bb682e57dfd0.zip",
+      "size": "7406452262",
+      "md5": "40854694f9d164783c12ac096b98cb2e",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d68520491e4c61765b7f4dc51bfe03e8/component-ota/23/11/23/384ffbf12bb047fc854b14b1f4388d81.html",
+      "discovered_at": "2026-04-25T02:56:01.735110",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
