@@ -1,0 +1,33 @@
+{
+  "code": "RMX3350",
+  "model": "RMX3350",
+  "updatedAt": "2026-04-26T03:35:32.488Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "RMX3350_11.A.00_0010_197001010000",
+      "version_name": "RMX3350 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:43.486950",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "RMX3350_11.A.16_0160_202201110217",
+      "version_name": "RMX3350_11_A.16",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.1",
+      "security_patch": "2022-01-05",
+      "status": "found",
+      "published_time": "2022-01-27 08:50:13",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4ff3953409b98517dfe75d9afdf58e01/component-ota/22/01/12/040d0ba3022144f1b0849615f733d9ee.zip",
+      "size": "1224301",
+      "md5": "ae758a87d35bbc9bcf522c2737eda6f5",
+      "discovered_at": "2026-04-25T15:23:09.937340",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
