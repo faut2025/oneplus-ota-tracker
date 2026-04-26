@@ -1,8 +1,8 @@
 {
   "code": "MT2110",
   "model": "一加9RT",
-  "updatedAt": "2026-04-25T20:10:10.185Z",
-  "versionCount": 5,
+  "updatedAt": "2026-04-26T03:35:32.537Z",
+  "versionCount": 7,
   "versions": [
     {
       "versionName": "ColorOS MT2110_13.1.0.195(CN01) F.26",
@@ -97,6 +97,18 @@
       "downloadUrl4": "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
       "downloadUrl5": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip",
       "downloadUrl6": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a76ac0aa9e62e896e3b458a805c08890/component-ota/22/11/07/451a56b39ab04ff58fcbf11dba101c37.zip"
+    },
+    {
+      "ota_version": "MT2110_11.A.07_0070_202111020020",
+      "version_name": "MT2110_11.A.07_0070_202111020020",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "MT2110_11.A.14_0140_202206070325",
+      "version_name": "ColorOS: ColorOS 12",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
