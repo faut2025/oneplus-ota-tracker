@@ -1,0 +1,25 @@
+{
+  "code": "RMX5060",
+  "model": "RMX5060",
+  "updatedAt": "2026-04-26T03:35:32.529Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX5060_11.A.61_0610_202509190148",
+      "version_name": "RMX5060_15.0.0.1133(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-09-01",
+      "status": "published",
+      "published_time": 1759974306,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1958476a1dbbcca967410c338f737b0c/component-ota/25/09/20/968fd2c49f3e48c39c494fb54d956ec7.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1958476a1dbbcca967410c338f737b0c/component-ota/25/09/20/968fd2c49f3e48c39c494fb54d956ec7.zip",
+      "size": "8345245825",
+      "md5": "5b8b84c97f193111f4b9fac64520dcd8",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1958476a1dbbcca967410c338f737b0c/component-ota/25/10/09/4dbabb766f8a4b168665436495616699.html",
+      "discovered_at": "2026-04-25T02:56:21.832755",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
