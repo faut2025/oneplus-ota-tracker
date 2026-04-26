@@ -1,8 +1,8 @@
 {
   "code": "PKG110",
   "model": "一加Ace5",
-  "updatedAt": "2026-04-25T19:59:32.216Z",
-  "versionCount": 8,
+  "updatedAt": "2026-04-26T03:35:32.555Z",
+  "versionCount": 16,
   "versions": [
     {
       "versionName": "PKG110_16.0.5.702(CN01)",
@@ -130,6 +130,89 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-aa37b2107eaa9235abdd25fedaea7983/g-7b7dd1567f3d152809ed9bf185ea8a32/component-ota/26/03/20/12fc0460d18a45ed8ac396acfb8fd1d4.zip?sign=9a0c7249691273db53c91887350ee7dc&t=69ecff80&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141384&Signature=6dCka%2FJAWEurGyZ1CHLtGLQQ17g%3D"
+    },
+    {
+      "version_name": "PKG110_16.0.5.702(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=9547db23c26242b8294d51241221048a&p=a6c78fdd3751888a30ce8cfd10ca3266c472fee34e6154a287ed5bbd912e50c1bfe96adfb12b3626ef3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=730a9491480771669bd69fcd6e6d1cdb&id=69e1f3ea9e207b01827c1419&taste=1&supportDLTaste=0&mode=1&s=d078b1a883d4abf46c555992860193b6",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.35_2350_202604091348",
+      "version_name_coloros": "ColorOS: PKG110_16.0.5.702(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=aa37b2107eaa9235abdd25fedaea7983&p=a6c78fdd3756888839cedcad14cc31609170a9e0423754f2d0ea5ae9c52b5894bbec3489ef2e6426e93fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=7b7dd1567f3d152809ed9bf185ea8a32&id=69c126d0007ddc017e041da3&taste=1&supportDLTaste=0&mode=1&s=fe67ef906701ff9ee5ee671f0347b0af",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.34_2340_202603192236",
+      "version_name_coloros": "ColorOS: PKG110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=127115a595b8e6629cf1b79e6b632388&p=a6c78fdd3754888a30cedbab43c935329326fdb4193754f0d3b65aeb967d5994e3ec60dfe12d6171eb32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696deb92007ddc017e03c237&taste=1&supportDLTaste=0&mode=1&s=6519d9a60100cdb5e8d599286d238b04",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.32_2320_202601090217",
+      "version_name_coloros": "ColorOS: PKG110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=3585fe4167f7dd7aa64de3d05ac7a570&p=a6c78cdd3657888b39ce8cfb14ca6437c274aeb24f6554a386ea5aea9f2b04c4e8b86ad8b5703476bb3bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694cb6329e207b017baa903e&taste=0&supportDLTaste=0&mode=1&s=000d3fc177d9550304ea3c87d7ddc30a",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.31_2310_202512101852",
+      "version_name_coloros": "ColorOS: PKG110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_16.0.1.302(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=f2a05df4d6112da69d4735ae4fa07336&p=a6c78cdd365488883ccedea711cc33619e77feb74e3454a18db65be9947a5392efb86a8dee7e6127ec3bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6945205c9e207b017baa8516&taste=0&supportDLTaste=0&mode=1&s=91e44a20dd8dfe89c3db4eba8180fbe2",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.30_2300_202511251710",
+      "version_name_coloros": "ColorOS: PKG110_16.0.1.302(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_16.0.0.205(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=201d810461e0d2a705e66849307ce23b&p=a6c78cdd3654888a38ced9a84ac965619370f4b2486754a387eb03bbc02c0592eaec6688e02c622fb56ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694363ec007ddc017e0385e3&taste=0&supportDLTaste=0&mode=1&s=ddf84f100be1c1044eeac07b5e4af40f",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.F.23_2230_202510311838",
+      "version_name_coloros": "ColorOS: PKG110_16.0.0.205(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PKG110_15.0.0.860(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5dc82d850044973641968357d926f3f7/component-ota/25/09/02/a2961f359fc04ca98d9d21b33b46c284.zip",
+      "discovered_at": "2026-04-25T02:37:25.253337",
+      "ota_version": "PKG110_11.A.63_0630_202509012252",
+      "version_name_coloros": "ColorOS: PKG110_15.0.0.860(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PKG110_11.A.33_0330_202412190245",
+      "version_name": "PKG110_11.A.33_0330_202412190245",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
