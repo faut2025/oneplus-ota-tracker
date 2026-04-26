@@ -1,0 +1,107 @@
+{
+  "code": "PHN110",
+  "model": "PHN110",
+  "updatedAt": "2026-04-26T03:35:32.474Z",
+  "versionCount": 9,
+  "versions": [
+    {
+      "version_name": "PHN110_16.0.3.505(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=ba70518e18948dc9387d144f3c0658b0&p=a6c78fdd3756888a3ccedbae119630369422fce0426554a1d4ba5bbe947b059be2b636d9e0793176b439d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=4b8a7b760562d82f25d1c255526200ba&id=69aa27c1007ddc017e03fed6&taste=1&supportDLTaste=0&mode=1&s=77fa3e590c0eddc373e2ce15debff927",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.H.20_3200_202603051342",
+      "version_name_coloros": "ColorOS: PHN110_16.0.3.505(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_16.0.3.501(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=02fcb7e2c79786c92d88413fdc81f87b&p=a6c78fdd3754888838ced9ac40ca3260c274a8e2496654a4d1ea5abd93210393edbb65dfef713324b432d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69708f3a9e207b017baac3e9&taste=1&supportDLTaste=0&mode=1&s=1fbcf1339b250ace9fec47ef0311d732",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.H.19_3190_202601210915",
+      "version_name_coloros": "ColorOS: PHN110_16.0.3.501(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=c56cc71246af3ff03f891c57209e105f&p=a6c78cdd3657888b3cce89a9139f6332c471a9b21f6354a587b75ab8962154c6b8be3088e3783621ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694e77cf9e207b017baa9442&taste=0&supportDLTaste=0&mode=1&s=8f8754194691536b1cdd22899cc0d466",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.H.17_3170_202512141530",
+      "version_name_coloros": "ColorOS: PHN110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_16.0.1.301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=1e2c29f907f98412f621ac4f79a88171&p=a6c78cdd365488883aced8ae44cb65319776f9b44c3254f286ec03bf9f200796eabf60dcb37c302fb968d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6943f6959e207b017baa82ec&taste=0&supportDLTaste=0&mode=1&s=3264e97b13d9c1e8b6955c86c2d20ee6",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.H.16_3160_202511230052",
+      "version_name_coloros": "ColorOS: PHN110_16.0.1.301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_15.0.0.860(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a74e5f96c2b1fbfbaf2fc53d3a1c2ac7/component-ota/25/09/04/48ca6184cb2449f597699471e311133f.zip",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.F.57_2570_202509032132",
+      "version_name_coloros": "ColorOS: PHN110_15.0.0.860(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_15.0.0.600(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bca67d9750406274fb1f27bd60b91098/component-ota/25/02/14/b47be85b6be843e1b057c74c3eb497da.zip",
+      "discovered_at": "2026-04-25T02:37:25.228488",
+      "ota_version": "PHN110_11.F.35_2350_202502131946",
+      "version_name_coloros": "ColorOS: PHN110_15.0.0.600(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHN110_14.0.0.850(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFindN3",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-737f308b7e911ed6168d55cdd61e5121/component-ota/24/10/10/e27587c78d934de2aecea8307b2195cb.zip",
+      "discovered_at": "2026-04-25T02:37:25.227487",
+      "ota_version": "PHN110_11.C.22_1220_202410092208",
+      "version_name_coloros": "ColorOS: PHN110_14.0.0.850(CN01)",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PHN110_11.A.48_0480_202312282227",
+      "version_name": "PHN110_13.2.0.300(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.2.0",
+      "security_patch": "2024-01-05",
+      "status": "found",
+      "published_time": "2024-01-10 16:28:12",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6fb0f4c462d1da8355b2e2c3e2374e31/component-ota/24/01/02/cfbc6ed2277842ad8db996f3a0c0613b.zip",
+      "size": "7949714528",
+      "md5": "89c4f10ae48f2b8a9e0af863d5999202",
+      "discovered_at": "2026-04-25T15:22:11.434849",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PHN110_11.C.18_1180_202406071232",
+      "version_name": "PHN110_11.C.18_1180_202406071232",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
