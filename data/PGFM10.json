@@ -1,8 +1,8 @@
 {
   "code": "PGFM10",
   "model": "Find X6",
-  "updatedAt": "2026-04-25T20:04:14.044Z",
-  "versionCount": 11,
+  "updatedAt": "2026-04-26T03:35:32.542Z",
+  "versionCount": 12,
   "versions": [
     {
       "versionName": "PGFM10_16.0.5.701(CN01)",
@@ -157,6 +157,23 @@
       "md5": "92f7698f9afd66a6524618f29c460459",
       "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-2c324df4cf1d830676ff1eaa008db613/component-ota/23/10/24/caeed53bba584fcb857365b57a97579e.zip",
       "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2c324df4cf1d830676ff1eaa008db613/component-ota/23/10/24/caeed53bba584fcb857365b57a97579e.zip"
+    },
+    {
+      "ota_version": "PGFM10_11.A.46_0460_202311131950",
+      "version_name": "PGFM10_13.1.0.171(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-10-05",
+      "status": "published",
+      "published_time": 1727074508,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-59ab6a3f539d8af8a15a8d47fb8be71d/component-ota/23/11/14/a8cb431f1975450199b820acf2047efc.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-59ab6a3f539d8af8a15a8d47fb8be71d/component-ota/23/11/14/a8cb431f1975450199b820acf2047efc.zip",
+      "size": "7953857023",
+      "md5": "d4ed5be26b0e9d00973e8b43f67c1546",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-59ab6a3f539d8af8a15a8d47fb8be71d/component-ota/23/11/28/a1cf92d0eb304536b566b7a921a944b3.html",
+      "discovered_at": "2026-04-25T02:55:07.967144",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
