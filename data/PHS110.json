@@ -1,0 +1,25 @@
+{
+  "code": "PHS110",
+  "model": "PHS110",
+  "updatedAt": "2026-04-26T03:35:32.475Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PHS110_11.A.15_0150_202312191531",
+      "version_name": "PHS110_13.1.0.192(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-11-05",
+      "status": "published",
+      "published_time": 1704183766,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d87c2500342859ea74d2bb9ac80c0dfc/component-ota/23/12/20/7eb62c31019b4c21907f11ebc229683d.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d87c2500342859ea74d2bb9ac80c0dfc/component-ota/23/12/20/7eb62c31019b4c21907f11ebc229683d.zip",
+      "size": "6577545314",
+      "md5": "e89e9ef3ee6f05b9f0a90199643392df",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d87c2500342859ea74d2bb9ac80c0dfc/component-ota/24/01/02/bad1cbe03b16463ab09c4b29fa613202.html",
+      "discovered_at": "2026-04-25T02:55:30.288683",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
