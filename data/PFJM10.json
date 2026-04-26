@@ -1,0 +1,33 @@
+{
+  "code": "PFJM10",
+  "model": "PFJM10",
+  "updatedAt": "2026-04-26T03:35:32.465Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PFJM10_11.A.00_0010_197001010000",
+      "version_name": "PFJM10 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:17.470736",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PFJM10_11.A.29_0290_202206180203",
+      "version_name": "PFJM10_11_A.29",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 12",
+      "security_patch": "2022-06-05",
+      "status": "found",
+      "published_time": "2022-06-23 19:03:30",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cb820bd97f174328b7f5f087bd7e64b9/component-ota/22/06/18/2470b7f7c485402b973f06c79bccc4d9.zip",
+      "size": "5345362176",
+      "md5": "ada113767b1398496b9d09bbbaaf2194",
+      "discovered_at": "2026-04-25T15:21:47.174231",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
