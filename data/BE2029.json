@@ -1,0 +1,19 @@
+{
+  "code": "BE2029",
+  "model": "BE2029",
+  "updatedAt": "2026-04-26T03:35:32.423Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "BE2029_11.A.00_0010_197001010000",
+      "version_name": "BE2029 - 已停止更新 (API 2004)",
+      "source": "ota_query",
+      "status": "discontinued",
+      "region": "CN",
+      "response_code": 2004,
+      "error_msg": "artifactV1Result is empty",
+      "discovered_at": "2026-04-25T15:08:11.776336",
+      "needsResolve": true
+    }
+  ]
+}
