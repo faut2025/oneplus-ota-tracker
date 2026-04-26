@@ -1,25 +1,7 @@
 {
   "code": "OPD2201",
-  "model": "OPD2201",
-  "updatedAt": "2026-04-26T03:35:32.450Z",
-  "versionCount": 1,
-  "versions": [
-    {
-      "ota_version": "OPD2201_11.A.43_0430_202312122242",
-      "version_name": "OPD2201_13.1.0.197(CN01)",
-      "android_version": "Android 13",
-      "coloros_version": "ColorOS 13.1.0",
-      "security_patch": "2023-12-05",
-      "status": "published",
-      "published_time": 1703765030,
-      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d00ed3fc607d45f45cb4160eccf869d2/component-ota/23/12/14/676f60ea70c94e30873c1dbb2c259551.zip",
-      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d00ed3fc607d45f45cb4160eccf869d2/component-ota/23/12/14/676f60ea70c94e30873c1dbb2c259551.zip",
-      "size": "6114763714",
-      "md5": "4179f798af8f0c81f356df78b1470a4f",
-      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d00ed3fc607d45f45cb4160eccf869d2/component-ota/23/12/28/5a0350465a3c4fd19585432683acb83e.html",
-      "discovered_at": "2026-04-25T02:55:50.675639",
-      "source": "ota_query",
-      "needsResolve": true
-    }
-  ]
+  "model": "一加OnePlus Pad 2",
+  "updatedAt": "2026-04-26T12:30:48.153Z",
+  "versionCount": 0,
+  "versions": []
 }

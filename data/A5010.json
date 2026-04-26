@@ -1,0 +1,53 @@
+{
+  "code": "ONEPLUS_A5010",
+  "model": "一加5T",
+  "updatedAt": "2026-04-26T10:43:30.510Z",
+  "versionCount": 5,
+  "versions": [
+    {
+      "versionName": "氢10.0.3",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647",
+      "date": "2012-03-04",
+      "filename": "OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip",
+      "downloadUrl1": "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip"
+    },
+    {
+      "versionName": "氧10.0.1",
+      "osType": "OxygenOS",
+      "osName": "氧OS",
+      "version": "OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5",
+      "date": "2010-29-21",
+      "filename": "OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip",
+      "downloadUrl1": "https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip"
+    },
+    {
+      "versionName": "氧OS 9.0.11",
+      "osType": "OxygenOS",
+      "osName": "氧OS",
+      "version": "OnePlus5TOxygen_43_OTA_054_all_2002242025_cb8fe710",
+      "date": "2002-24-20",
+      "filename": "OnePlus5TOxygen_43_OTA_054_all_2002242025_cb8fe710.zip",
+      "downloadUrl1": "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.54_GLO_054_2002242025/OnePlus5TOxygen_43_OTA_054_all_2002242025_cb8fe710.zip"
+    },
+    {
+      "versionName": "氢5.1.4",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5THydrogen_43_OTA_037_all_1812111156_bc6a5a8eace",
+      "date": "1812-11-11",
+      "filename": "OnePlus5THydrogen_43_OTA_037_all_1812111156_bc6a5a8eace.zip",
+      "downloadUrl1": "http://otafsc.h2os.com/patch/CHN/OnePlus5THydrogen/OnePlus5THydrogen_43.K.37_037_1812111156/OnePlus5THydrogen_43_OTA_037_all_1812111156_bc6a5a8eace.zip"
+    },
+    {
+      "versionName": "氢5.1.2",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5THydrogen_43_OTA_035_all_1807181315_4ac723147cbf42a6",
+      "date": "1807-18-13",
+      "filename": "OnePlus5THydrogen_43_OTA_035_all_1807181315_4ac723147cbf42a6.zip",
+      "downloadUrl1": "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_035_all_1807181315_4ac723147cbf42a6.zip"
+    }
+  ]
+}

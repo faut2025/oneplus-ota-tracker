@@ -1,22 +1,7 @@
 {
   "code": "PLZ110",
-  "model": "一加15T",
-  "updatedAt": "2026-04-25T19:54:16.297Z",
-  "versionCount": 1,
-  "versions": [
-    {
-      "versionName": "PLZ110_16.0.5.703(CN01)",
-      "otaVersion": "PLZ110_11.A.19_0190_202604090054",
-      "colorOSVersion": "ColorOS 16",
-      "androidVersion": "Android 16",
-      "securityPatch": "2026-03-01",
-      "publishedTime": "2026-04-17T02:15:28.405Z",
-      "releaseDate": "2026-04-17",
-      "description": "【自在 AI 每一刻，越用越懂你】\n新增支持在小布记忆随口记首页对识别的文字进行编辑，操作更简单\n新增小布记忆随口记按钮，点击按钮即可语音输入并保存\n新增小布记忆账单导入功能，支持导入微信、支付宝账单表格到账单合集中，让账单更完整\n新增小布记忆支持识别部分应用中聊天转账信息、红包信息，并记录到账单中，提升账单的完整和准确性\n\n【处处有细节，智享生活】\n新增支持在桌面添加 2×1 和 2×2 尺寸的“超算平台”卡片，拖拽可自由切换卡片尺寸\n新增支持在桌面添加 2×1 和 2×2 尺寸空气质量卡片\n新增天气应用支持显示街道级数据，定位显示更准确\n新增在流体云上，支持显示两轮电动车充电和换电的履约状态\n优化相册中的视频倍速播放按钮位置，在视频播放页面可直接点击，操作更方便\n提升系统稳定性\n\n【无缝衔接，智慧互联】\n新增车机投屏应用支持微信（设置-设备互联-智慧车载-我的车辆-更多功能-投屏设置-应用管理）\n新增支持通过“地址导航”功能提前发送目的地地址，手机与车机连接后自动发起导航，便捷高效（设置-设备互联-智慧车载-我的车辆-地址导航）\n新增手机接续车机投屏导航功能。手机与车机连接时，可将车机高德导航流转至手机继续导航",
-      "size": "9026452090",
-      "md5": "48f9cceb8612a45706d33d9f7ae405ac",
-      "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-04203c5dce5a31964f4995430ac18b23/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/09/0606ffa85db347d68b199268b729a9cc.zip?sign=544ab2b019c8b66856c728d3d0b645df&t=69ecff78&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141376&Signature=lpOf8TH65XGlArvkzhacTSmnn2k%3D",
-      "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-04203c5dce5a31964f4995430ac18b23/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/09/0606ffa85db347d68b199268b729a9cc.zip?sign=544ab2b019c8b66856c728d3d0b645df&t=69ecff78&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141376&Signature=lpOf8TH65XGlArvkzhacTSmnn2k%3D"
-    }
-  ]
+  "model": "一加OnePlus 15T",
+  "updatedAt": "2026-04-26T12:01:11.242Z",
+  "versionCount": 0,
+  "versions": []
 }

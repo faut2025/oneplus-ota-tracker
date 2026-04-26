@@ -1,0 +1,53 @@
+{
+  "code": "ONEPLUS_A5000",
+  "model": "一加5",
+  "updatedAt": "2026-04-26T10:43:22.802Z",
+  "versionCount": 5,
+  "versions": [
+    {
+      "versionName": "氢10.0.3",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca",
+      "date": "2012-03-03",
+      "filename": "OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip",
+      "downloadUrl1": "http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip"
+    },
+    {
+      "versionName": "氧10.0.1",
+      "osType": "OxygenOS",
+      "osName": "氧OS",
+      "version": "OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd",
+      "date": "2010-29-21",
+      "filename": "OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip",
+      "downloadUrl1": "https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip"
+    },
+    {
+      "versionName": "氧OS 9.0.11",
+      "osType": "OxygenOS",
+      "osName": "氧OS",
+      "version": "OnePlus5Oxygen_23_OTA_054_all_2002242016_5fa0dcac8",
+      "date": "2002-24-20",
+      "filename": "OnePlus5Oxygen_23_OTA_054_all_2002242016_5fa0dcac8.zip",
+      "downloadUrl1": "https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.54_GLO_054_2002242016/OnePlus5Oxygen_23_OTA_054_all_2002242016_5fa0dcac8.zip"
+    },
+    {
+      "versionName": "氢9.0.8",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5Hydrogen_23_OTA_048_all_2002171234_54d7fe7d1c1846b3",
+      "date": "2002-17-12",
+      "filename": "OnePlus5Hydrogen_23_OTA_048_all_2002171234_54d7fe7d1c1846b3.zip",
+      "downloadUrl1": "http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_048_all_2002171234_54d7fe7d1c1846b3.zip"
+    },
+    {
+      "versionName": "氢5.1.2",
+      "osType": "H2OS",
+      "osName": "氢OS",
+      "version": "OnePlus5Hydrogen_23_OTA_035_all_1807181315_c14e40",
+      "date": "1807-18-13",
+      "filename": "OnePlus5Hydrogen_23_OTA_035_all_1807181315_c14e40.zip",
+      "downloadUrl1": "http://otafsc.h2os.com/patch/CHN/OnePlus5Hydrogen/OnePlus5Hydrogen_23.H.35_035_1807181315/OnePlus5Hydrogen_23_OTA_035_all_1807181315_c14e40.zip"
+    }
+  ]
+}

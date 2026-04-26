@@ -1,58 +1,7 @@
 {
   "code": "PLY110",
-  "model": "PLY110",
-  "updatedAt": "2026-04-26T03:35:32.485Z",
-  "versionCount": 5,
-  "versions": [
-    {
-      "version_name": "PLY110_16.0.5.702(CN01)",
-      "source": "oplusrom",
-      "source_repo": "chlink2025/oplusrom",
-      "region_hint": "一加Turbo6v",
-      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=b960a2f3491c9f843e4f72b50adb3959&p=a6c78fdd3756888839ced9fd479e31659126f9e74b6054f080ba5bb9917c53c1eceb36d3b1713126bd3bd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b4012520078a14e3d296834e0178c7e6&id=69c33ef59e207b017bab1dbc&taste=1&supportDLTaste=0&mode=1&s=39ad70eddc9861618776e6d31049c6a1",
-      "discovered_at": "2026-04-25T02:37:25.267488",
-      "ota_version": "PLY110_11.A.32_0320_202603192334",
-      "version_name_coloros": "ColorOS: PLY110_16.0.5.702(CN01)",
-      "needsResolve": true
-    },
-    {
-      "version_name": "PLY110_16.0.5.701(CN01)",
-      "source": "oplusrom",
-      "source_repo": "chlink2025/oplusrom",
-      "region_hint": "一加Turbo6v",
-      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=9fe05b0d4ca66a844fc7ed5a2d55ab64&p=a6c78fdd3756888a30cedffb17ce31619f71abb74e3754f484b700b1c22e0495bfb66289e3716126be3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=4c55f733a993d5d4d595119387f4d433&id=69ae07049e207b017baafea0&taste=1&supportDLTaste=0&mode=1&s=31f2ce29c91ea5ba5c63f191bd273403",
-      "discovered_at": "2026-04-25T02:37:25.267488",
-      "ota_version": "PLY110_11.A.31_0310_202603090131",
-      "version_name_coloros": "ColorOS: PLY110_16.0.5.701(CN01)",
-      "needsResolve": true
-    },
-    {
-      "version_name": "PLY110_16.0.3.502(CN01)",
-      "source": "oplusrom",
-      "source_repo": "chlink2025/oplusrom",
-      "region_hint": "一加Turbo6v",
-      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=8fc8588919cf91cd3a5d414d60885709&p=a6c78fdd3754888831ce88ab4a9738379374f5e5186154f582be5beec779599be2bd37dbe77d3471b532d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=697949c4007ddc017e03d1e9&taste=1&supportDLTaste=0&mode=1&s=633205e9ebe8c980ccd763d11a21bf23",
-      "discovered_at": "2026-04-25T02:37:25.267488",
-      "ota_version": "PLY110_11.A.27_0270_202601280001",
-      "version_name_coloros": "ColorOS: PLY110_16.0.3.502(CN01)",
-      "needsResolve": true
-    },
-    {
-      "version_name": "PLY110_16.0.2.412(CN01)",
-      "source": "oplusrom",
-      "source_repo": "chlink2025/oplusrom",
-      "region_hint": "一加Turbo6v",
-      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=cc72914f8a2123bd321f804f951a0d1d&p=a6c78fdd3754888a3cce8faf47ca67379277a9b54c6154a6d0bf03be9e7956c3bcbb67d2b47d3520be3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696119159e207b017baaab8c&taste=0&supportDLTaste=0&mode=1&s=99c71e3778eae404d199121141d87ac2",
-      "discovered_at": "2026-04-25T02:37:25.267488",
-      "ota_version": "PLY110_11.A.22_0220_202601052046",
-      "version_name_coloros": "ColorOS: PLY110_16.0.2.412(CN01)",
-      "needsResolve": true
-    },
-    {
-      "ota_version": "PLY110_11.A",
-      "version_name": "PLY110_11.A",
-      "source": "oplusrom-models",
-      "needsResolve": true
-    }
-  ]
+  "model": "一加OnePlus Turbo 6V",
+  "updatedAt": "2026-04-26T12:33:24.270Z",
+  "versionCount": 0,
+  "versions": []
 }
