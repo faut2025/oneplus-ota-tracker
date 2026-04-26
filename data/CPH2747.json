@@ -1,0 +1,36 @@
+{
+  "code": "CPH2747",
+  "model": "CPH2747",
+  "updatedAt": "2026-04-26T03:35:32.445Z",
+  "versionCount": 3,
+  "versions": [
+    {
+      "version_name": "CPH2747_16.0.5.700(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15 (GLO)",
+      "download_url": "https://component-ota-sg.allawnos.com/downloadCheck?c=6377405a5656c997d4a618341cf9e1e7&p=f088224e00681388a6bcc2051131d435427b19972b30c0ed2b1f9d819e9683371bb06c1eff5c7ab74d0f452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=ed5b1a2b80bb18984df48617cab5fb3d&id=69a52738007ddc017e03f750&taste=0&supportDLTaste=0&mode=1&s=247968b420215764b9763b406cf34663",
+      "discovered_at": "2026-04-25T02:37:25.233286",
+      "ota_version": "CPH2747_11.A.30_0300_202602270114",
+      "version_name_coloros": "ColorOS: CPH2747_16.0.5.700(EX01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "CPH2747_16.0.3.503(EX01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OnePlus 15 (EU)",
+      "download_url": "https://component-ota-eu.allawnos.com/downloadCheck?c=bbff536f104722ba64ba7016ee39be20&p=c25c9713dab4a25c8a9e61ff6f3cef1153f18f4af58873752837d3ad039234d71d6ffbf26581846b63f8181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=2462bdb55ccb55dd1167fc3290378d86&id=69797d619e207b017baacf56&taste=0&supportDLTaste=0&mode=1&s=cf76072d524a8e2eae90a0d192a6d770",
+      "discovered_at": "2026-04-25T02:37:25.233286",
+      "ota_version": "CPH2747_11.A.27_0270_202601280009",
+      "version_name_coloros": "ColorOS: CPH2747_16.0.3.503(EX01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "CPH2747_11.A",
+      "version_name": "CPH2747_11.A",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
