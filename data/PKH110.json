@@ -1,8 +1,8 @@
 {
   "code": "PKH110",
   "model": "Find N5",
-  "updatedAt": "2026-04-25T20:03:28.377Z",
-  "versionCount": 3,
+  "updatedAt": "2026-04-26T03:35:32.555Z",
+  "versionCount": 4,
   "versions": [
     {
       "versionName": "PKH110_16.0.5.700(CN01)",
@@ -45,6 +45,23 @@
       "md5": "367e3b4be47bcea04f101d4c4aefe5d1",
       "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-87b99400cbab71a211d51ed22d57114a/component-ota/25/08/25/bfdfd2912a4741109a5856a7a676c566.zip",
       "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-87b99400cbab71a211d51ed22d57114a/component-ota/25/08/25/bfdfd2912a4741109a5856a7a676c566.zip"
+    },
+    {
+      "ota_version": "PKH110_11.A.62_0620_202508222050",
+      "version_name": "PKH110_15.0.1.860(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-09-01",
+      "status": "published",
+      "published_time": 1757674018,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-bdb58c807089bb48f7579e67bcf1ec01/component-ota/25/08/25/bfdfd2912a4741109a5856a7a676c566.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bdb58c807089bb48f7579e67bcf1ec01/component-ota/25/08/25/bfdfd2912a4741109a5856a7a676c566.zip",
+      "size": "8766346925",
+      "md5": "367e3b4be47bcea04f101d4c4aefe5d1",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-bdb58c807089bb48f7579e67bcf1ec01/component-ota/25/09/12/2ff70287a9844d2192a2e773249fa2b4.html",
+      "discovered_at": "2026-04-25T02:55:00.799623",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
