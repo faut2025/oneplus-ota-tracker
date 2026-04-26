@@ -1,0 +1,35 @@
+{
+  "code": "CPH2793",
+  "model": "CPH2793",
+  "updatedAt": "2026-04-26T03:35:32.448Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "CPH2793_11.A.00_0010_197001010000",
+      "version_name": "CPH2793 - 已停止更新 (API 2004)",
+      "source": "ota_query",
+      "status": "discontinued",
+      "region": "IN",
+      "response_code": 2004,
+      "error_msg": "artifactV1Result is empty",
+      "discovered_at": "2026-04-25T15:08:57.152786",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "CPH2793_11.A.16_0160_202603242324",
+      "version_name": "CPH2793_16.0.5.701(EX01)",
+      "android_version": "Android 16",
+      "coloros_version": "ColorOS 16.0.0",
+      "security_patch": "2026-03-01",
+      "changelog_url": "https://gauss-componentotamanual.allawnofs.com/remove-e97288d209c381d7002ea3b9fbcb148c/component-ota/26/04/08/cbdbf735a1124cd68549740171141e81.html",
+      "source": "ota_query_v2 (python)",
+      "region": "in",
+      "download_url": "https://gauss-compota-c-in.allawnofs.com/remove-e97288d209c381d7002ea3b9fbcb148c/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/25/33b5edb694ca464ab737298079b51314.zip?sign=8ddf0af107d62e042b6621c07c2af029&t=69ec6d31&x-oss-signature=rMXCYJmowzLickhO0llkDlCWsTFIaBZyMufrBfIX9fE%3D&x-oss-signature-version=OSS2&x-oss-expires=1777103929&x-oss-access-key-id=LTAI5t7LQqPWs3796pRv6Avx",
+      "size": "7587112140",
+      "md5": "56285eae96225639455ced95c7228801",
+      "published_time": "2026-04-08 16:14:27",
+      "discovered_at": "2026-04-25T15:28:52.602609",
+      "needsResolve": true
+    }
+  ]
+}
