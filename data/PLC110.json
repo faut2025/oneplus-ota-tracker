@@ -1,8 +1,8 @@
 {
   "code": "PLC110",
   "model": "一加Ace5至尊",
-  "updatedAt": "2026-04-25T19:59:48.724Z",
-  "versionCount": 8,
+  "updatedAt": "2026-04-26T03:35:32.558Z",
+  "versionCount": 16,
   "versions": [
     {
       "versionName": "PLC110_16.0.5.701(CN01)",
@@ -121,6 +121,89 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-a59862c84af18ef8cc4d17dcb6dcebd7/g-1b13d37a000e794a8dd224e15cee0343/component-ota/26/03/12/1114acd65531411d952fab6fb0e42cd5.zip?sign=b259679fae73fb6b37d319d676c96ea5&t=69ecff8b&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141395&Signature=DnZd3uZwwrQnQWrgKsaaVshGg%2Bs%3D"
+    },
+    {
+      "version_name": "PLC110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=3c05009a222d23c5747d3a1127a99a55&p=a6c78fdd3751888b3bce8bfd419f62369f21a8e5196f54fe8ceb00be907a5192ebbb63dae32c302ebc3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=cb19385d4898617c153e28686383b6ed&id=69e203ac007ddc01813da627&taste=1&supportDLTaste=0&mode=1&s=a68fbdd91b6378193ce9a1aa08db949a",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.30_1300_202604101246",
+      "version_name_coloros": "ColorOS: PLC110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_16.0.5.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a59862c84af18ef8cc4d17dcb6dcebd7&p=a6c78fdd3756888b3bcedcae439b6037c376f8e4496754f684ea5bbd947e00c0ece930dbb27c3274e93ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1b13d37a000e794a8dd224e15cee0343&id=69b21ab39e207b017bab06de&taste=1&supportDLTaste=0&mode=1&s=da0ae660daa9a7d76f6de2552af205cb",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.29_1290_202603102237",
+      "version_name_coloros": "ColorOS: PLC110_16.0.5.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_16.0.3.501(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=5769a457b6234e7e628537988d55b59a&p=a6c78fdd3754888b3bce8efe109e3331c577fae21b3454ff80ec5abd90285791ebed36dce42b3720eb3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69645b07007ddc017e03b15c&taste=1&supportDLTaste=0&mode=1&s=158aedc6bf1dd91f88c8d866c6829155",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.28_1280_202601100430",
+      "version_name_coloros": "ColorOS: PLC110_16.0.3.501(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=0db08c37b1b716d31fc226582d9de817&p=a6c78cdd3657888b39ce8fac4b9839629e79aeb24b6554a585b65abf947b5693edba618ae37f3224bf3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694924c1007ddc017e038d59&taste=0&supportDLTaste=0&mode=1&s=d636d45cfcee5f88d2feea804bf6e203",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.27_1270_202512101314",
+      "version_name_coloros": "ColorOS: PLC110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_16.0.1.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=c6aeb261ec715edbe1713f262e1f99e4&p=a6c78cdd3654888b3dced9ab40993765c570fcb5436354fe8deb5abec4290594ebba63d2e12c6175b96ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=693826eb007ddc017e0375a3&taste=0&supportDLTaste=0&mode=1&s=e1ba368b9953c6a0eabba773830ed7c0",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.25_1250_202511132224",
+      "version_name_coloros": "ColorOS: PLC110_16.0.1.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_16.0.0.205(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=d5fa26263b5691f5cbf748d7cbdeebec&p=a6c78cdd3654888a30cedcf94199646dc625fee3483254a186ec5bbf947d50c6eab734dcb47b3172b86ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69452c1d007ddc017e038951&taste=0&supportDLTaste=0&mode=1&s=6d30460563d6968fd9b5787711059d7c",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.C.24_1240_202511081918",
+      "version_name_coloros": "ColorOS: PLC110_16.0.0.205(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLC110_15.0.2.610(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5至尊版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-63d34c6acf01848d73851a790e3d420f/component-ota/25/09/02/5cbacebec81f4be490d456eaeae1c764.zip",
+      "discovered_at": "2026-04-25T02:37:25.256337",
+      "ota_version": "PLC110_11.A.22_0220_202508291928",
+      "version_name_coloros": "ColorOS: PLC110_15.0.2.610(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PLC110_11.A.12_0120_202505210230",
+      "version_name": "PLC110_11.A.12_0120_202505210230",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
