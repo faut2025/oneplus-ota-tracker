@@ -1,0 +1,33 @@
+{
+  "code": "RMX3161",
+  "model": "RMX3161",
+  "updatedAt": "2026-04-26T03:35:32.488Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "RMX3161_11.A.00_0010_197001010000",
+      "version_name": "RMX3161 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:43.878631",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "RMX3161_11.A.23_0230_202206142111",
+      "version_name": "RMX3161_11_A.23",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.1",
+      "security_patch": "2022-06-05",
+      "status": "found",
+      "published_time": "2022-06-28 10:15:06",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5449c64d3d3ffadf86964a5815c0cb05/component-ota/22/06/17/abd9cc656818494f8555dd6776eee940.zip",
+      "size": "1238035",
+      "md5": "373ad9f41a2503c3014a9daec2fbf0aa",
+      "discovered_at": "2026-04-25T15:23:08.731297",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
