@@ -1,8 +1,8 @@
 {
   "code": "PLV110",
   "model": "Reno 15 Pro",
-  "updatedAt": "2026-04-25T20:04:16.303Z",
-  "versionCount": 1,
+  "updatedAt": "2026-04-26T03:35:32.562Z",
+  "versionCount": 2,
   "versions": [
     {
       "versionName": "PLV110_16.0.5.704(CN01)",
@@ -17,6 +17,23 @@
       "md5": "83f9faeee4c00e902ffca14ff49cdd31",
       "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-14ff235e9f668ebb48bb7caf08c8810a/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/03/b837e11ca70648d49068bdce7a837d9f.zip?sign=733080fff7e4b558b2de613fe24d39b4&t=69ecfdda&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140962&Signature=SdvoqGWHRcy5CYW2u9gjoYnt%2Fmk%3D",
       "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-14ff235e9f668ebb48bb7caf08c8810a/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/04/03/b837e11ca70648d49068bdce7a837d9f.zip?sign=733080fff7e4b558b2de613fe24d39b4&t=69ecfdda&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777140962&Signature=SdvoqGWHRcy5CYW2u9gjoYnt%2Fmk%3D"
+    },
+    {
+      "ota_version": "PLV110_11.A.59_0590_202604021351",
+      "version_name": "PLV110_16.0.5.704(CN01)",
+      "android_version": "Android 16",
+      "coloros_version": "ColorOS 16.0.0",
+      "security_patch": "2026-03-01",
+      "status": "published",
+      "published_time": 1777024364,
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=55b8189cba3e6fb224e0fbe3fe1d222c&p=a6c78fdd3751888a3ace8fa7419864659623ace64a6054ffd1ba5bb8902003c6b9ea658aef7b3773b46dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b3715b3daa301a5c5764fc3b6e3339cb92e7339ee6490&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb36b6007ddc01813db138&taste=0&supportDLTaste=0&mode=1&s=f3cd489c1a07fd9a98bafa56df59c94a",
+      "manual_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=55b8189cba3e6fb224e0fbe3fe1d222c&p=a6c78fdd3751888a3ace8fa7419864659623ace64a6054ffd1ba5bb8902003c6b9ea658aef7b3773b46dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69eb36b6007ddc01813db138&taste=0&supportDLTaste=0&mode=1&s=422593bda490bc0f93ab2b3e23b5b166",
+      "size": "8826747929",
+      "md5": "83f9faeee4c00e902ffca14ff49cdd31",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-55b8189cba3e6fb224e0fbe3fe1d222c/component-ota/26/04/24/ecb01eeb6e8a474dac3655d3be9b7130.html",
+      "discovered_at": "2026-04-25T02:54:51.597913",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
