@@ -1,8 +1,8 @@
 {
   "code": "PJA110",
   "model": "一加Ace2Pro",
-  "updatedAt": "2026-04-25T20:02:38.234Z",
-  "versionCount": 22,
+  "updatedAt": "2026-04-26T03:35:32.548Z",
+  "versionCount": 30,
   "versions": [
     {
       "versionName": "ColorOS PJA110_13.1.1.408(CN01) A.15",
@@ -365,6 +365,89 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://component-ota-cn.allawntech.com/downloadCheck?c=81f3ef5231bcd3b94d9dd994086174c0&p=a6c78fdd3754888939cedafa4acc6032c123aeb24f6454ffd3bf5beac22e0796beee31dde52d3520e939d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3853ad34671629b3490adf0359812cbe&id=697c757f007ddc017e03da70&taste=1&supportDLTaste=0&mode=1&s=bf695b2161aa98b19dfe64348a1addde"
+    },
+    {
+      "version_name": "PJA110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=81f3ef5231bcd3b94d9dd994086174c0&p=a6c78fdd3754888939cedafa4acc6032c123aeb24f6454ffd3bf5beac22e0796beee31dde52d3520e939d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3853ad34671629b3490adf0359812cbe&id=697c757f007ddc017e03da70&taste=1&supportDLTaste=0&mode=1&s=bf695b2161aa98b19dfe64348a1addde",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.H.11_3110_202601292238",
+      "version_name_coloros": "ColorOS: PJA110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=b702a15ee9380b43836b4318ab826be0&p=a6c78cdd3657888b3ecedefb419b326dc525fdb21f6554a287e803b1c52951c3ebbc30d9ee7d3524bb3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6953a385007ddc017e039dbc&taste=1&supportDLTaste=0&mode=1&s=27b01b809c2ee34408c6ae9927a2e849",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.H.09_3090_202512162156",
+      "version_name_coloros": "ColorOS: PJA110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_15.0.0.861(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-075bad087009d9154e3b1f709f61e354/component-ota/25/11/07/cbd86274abbd4cb5b352830460bca546.zip",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.F.39_2390_202511052253",
+      "version_name_coloros": "ColorOS: PJA110_15.0.0.861(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_15.0.0.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7647ec4ddbfa9bf80a4edeec8a5080ef/component-ota/25/01/13/9ab952919fd647c3b1fb9ba570ddf38b.zip",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.F.23_2230_202501111552",
+      "version_name_coloros": "ColorOS: PJA110_15.0.0.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_14.0.0.813(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3ee6cdcc45e083a5f4c9aba05b5c6107/component-ota/24/10/22/0dd304e5529649b89e052a30be7db5d5.zip",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.C.26_1260_202410211304",
+      "version_name_coloros": "ColorOS: PJA110_14.0.0.813(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_14.0.0.302(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6095b6a5f1ace19010493946124d77de/component-ota/24/01/29/7ebb2e5153084f9e887d7e6af23ef0b1.zip",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.C.17_1170_202401290128",
+      "version_name_coloros": "ColorOS: PJA110_14.0.0.302(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJA110_13.1.1.552(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c031dfeba9b54bc6a1f072f8e48e5a3f/component-ota/23/11/14/891a80780997458cb5deaf8e6e963453.zip",
+      "discovered_at": "2026-04-25T02:37:25.259385",
+      "ota_version": "PJA110_11.A.20_0200_202311132111",
+      "version_name_coloros": "ColorOS: PJA110_13.1.1.552(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PJA110_11.A.10_0100_202308152316",
+      "version_name": "PJA110_11.A.10_0100_202308152316",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
