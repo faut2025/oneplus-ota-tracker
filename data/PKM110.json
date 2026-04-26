@@ -1,8 +1,8 @@
 {
   "code": "PKM110",
   "model": "Reno 13",
-  "updatedAt": "2026-04-25T20:04:30.847Z",
-  "versionCount": 1,
+  "updatedAt": "2026-04-26T03:35:32.556Z",
+  "versionCount": 2,
   "versions": [
     {
       "versionName": "PKM110_15.0.0.863(CN01)",
@@ -16,6 +16,23 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1d3fce0be2a0482fc0d0a82cfd31abd8/component-ota/25/10/09/9b03d01f588043ddb606a24b7c5b5436.zip"
+    },
+    {
+      "ota_version": "PKM110_11.A.66_0660_202509282110",
+      "version_name": "PKM110_15.0.0.863(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-10-01",
+      "status": "published",
+      "published_time": 1761907748,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1d3fce0be2a0482fc0d0a82cfd31abd8/component-ota/25/10/09/9b03d01f588043ddb606a24b7c5b5436.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1d3fce0be2a0482fc0d0a82cfd31abd8/component-ota/25/10/09/9b03d01f588043ddb606a24b7c5b5436.zip",
+      "size": "8025415052",
+      "md5": "942da67fb6ee9afae07b860625ee8962",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-1d3fce0be2a0482fc0d0a82cfd31abd8/component-ota/25/10/31/dbf6e2e7a4e34c43abd99e0323694806.html",
+      "discovered_at": "2026-04-25T02:55:20.322736",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
