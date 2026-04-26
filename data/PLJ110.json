@@ -1,8 +1,8 @@
 {
   "code": "PLJ110",
   "model": "Find X9",
-  "updatedAt": "2026-04-25T20:03:44.653Z",
-  "versionCount": 1,
+  "updatedAt": "2026-04-26T03:35:32.560Z",
+  "versionCount": 2,
   "versions": [
     {
       "versionName": "PLJ110_16.0.5.701(CN01)",
@@ -17,6 +17,23 @@
       "md5": "61d90056f44b3ec8f15e3db1f56e667c",
       "downloadUrl": "https://gauss-compotaauto-c-cn.allawnfs.com/remove-680390ecec5cc007eeace8d253e95afc/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/05/9df48c9556ca480392c17ad1588a6036.zip?sign=2bad19f649e8c078400213145301db90&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=KnSYgoWsGupuzpJJYp%2F%2F0Ef6Tao%3D",
       "downloadUrl2": "https://gauss-compota-c-cn.allawnfs.com/remove-680390ecec5cc007eeace8d253e95afc/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/03/05/9df48c9556ca480392c17ad1588a6036.zip?sign=2bad19f649e8c078400213145301db90&t=69ecffb2&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141434&Signature=KnSYgoWsGupuzpJJYp%2F%2F0Ef6Tao%3D"
+    },
+    {
+      "ota_version": "PLJ110_11.A.86_0860_202603042056",
+      "version_name": "PLJ110_16.0.5.701(CN01)",
+      "android_version": "Android 16",
+      "coloros_version": "ColorOS 16.0.0",
+      "security_patch": "2026-03-01",
+      "status": "published",
+      "published_time": 1776930917,
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=04446efc6e82a44b9d8d7b20e7c5e360&p=a6c78fdd3756888a3cced4fb149b39379e75f8e7193754ff85bd5bbac52956c3bebe67d3ef293627be3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b3715b3daa301a5c5764fc3b6e3339cb92e7339ee6490&g=10eab6008d5642cf42abd2aa41f847cb&id=69d4a60f9e207b01827bffca&taste=0&supportDLTaste=0&mode=1&s=a72f39f6c6902e48e3d23362526cddc1",
+      "manual_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=04446efc6e82a44b9d8d7b20e7c5e360&p=a6c78fdd3756888a3cced4fb149b39379e75f8e7193754ff85bd5bbac52956c3bebe67d3ef293627be3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69d4a60f9e207b01827bffca&taste=0&supportDLTaste=0&mode=1&s=50420552df429586d66a074e2dd9e1b7",
+      "size": "9062630215",
+      "md5": "61d90056f44b3ec8f15e3db1f56e667c",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-04446efc6e82a44b9d8d7b20e7c5e360/component-ota/26/04/23/cb26b0fcc2be4ef48dad6eaa5666705d.html",
+      "discovered_at": "2026-04-25T02:54:56.231212",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
