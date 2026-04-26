@@ -1,0 +1,33 @@
+{
+  "code": "PFZM10",
+  "model": "PFZM10",
+  "updatedAt": "2026-04-26T03:35:32.466Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PFZM10_11.A.00_0010_197001010000",
+      "version_name": "PFZM10 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:16.463188",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PFZM10_11.A.24_0240_202209172134",
+      "version_name": "PFZM10_11_A.24",
+      "android_version": "Android 12",
+      "coloros_version": "ColorOS 12.1",
+      "security_patch": "2022-09-05",
+      "status": "found",
+      "published_time": "2022-10-15 16:23:48",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-68c6d7d656f84e3844d5c1ba3474ac4a/component-ota/22/09/19/f2fbfd01d23a487586133982662ba6eb.zip",
+      "size": "6075148439",
+      "md5": "f248bc3b3665bf4dad6cad9b5c27d39b",
+      "discovered_at": "2026-04-25T15:21:49.546718",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
