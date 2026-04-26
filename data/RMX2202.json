@@ -1,0 +1,33 @@
+{
+  "code": "RMX2202",
+  "model": "RMX2202",
+  "updatedAt": "2026-04-26T03:35:32.487Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "RMX2202_11.A.00_0010_197001010000",
+      "version_name": "RMX2202 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:45.028419",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "RMX2202_11.A.27_0270_202112090245",
+      "version_name": "RMX2202_11_A.27",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.2",
+      "security_patch": "2021-12-05",
+      "status": "found",
+      "published_time": "2021-12-22 15:47:09",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a52f9b46a4c0adbd91b4121ddc11256c/component-ota/21/12/10/31fea71cc1b348a79545a0a28acc7e46.zip",
+      "size": "4154376562",
+      "md5": "937c3f8e1ee14281f9f98f0674ae094e",
+      "discovered_at": "2026-04-25T15:23:07.520387",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
