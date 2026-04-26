@@ -1,0 +1,25 @@
+{
+  "code": "RMX3783",
+  "model": "RMX3783",
+  "updatedAt": "2026-04-26T03:35:32.511Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX3783_11.A.58_0580_202404021909",
+      "version_name": "RMX3783_13.2.0.530(SP01CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.2.0",
+      "security_patch": "2024-03-05",
+      "status": "published",
+      "published_time": 1713153187,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-903784cabf4f69e1eb6420eb95714fac/component-ota/24/04/07/e6a2e3428665465abd402dd6bd252155.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-903784cabf4f69e1eb6420eb95714fac/component-ota/24/04/07/e6a2e3428665465abd402dd6bd252155.zip",
+      "size": "5443368236",
+      "md5": "4992b622ba2579460caab9e29fc804ca",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-903784cabf4f69e1eb6420eb95714fac/component-ota/24/04/15/cb69b8dc5a04407a8cf3d43697596431.html",
+      "discovered_at": "2026-04-25T02:56:43.267031",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
