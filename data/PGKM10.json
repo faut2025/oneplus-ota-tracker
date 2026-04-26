@@ -1,0 +1,85 @@
+{
+  "code": "PGKM10",
+  "model": "PGKM10",
+  "updatedAt": "2026-04-26T03:35:32.467Z",
+  "versionCount": 7,
+  "versions": [
+    {
+      "version_name": "PGKM10_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dde235dca4b715aa3d5e6ed7939ac973/component-ota/25/04/01/16a318c5fe7a41cb9234539e2638f7db.zip",
+      "discovered_at": "2026-04-25T02:37:25.250337",
+      "ota_version": "PGKM10_11.H.13_3130_202503311910",
+      "version_name_coloros": "ColorOS: PGKM10_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGKM10_15.0.0.1800(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ab4e2c98ff652311959d9bb79d7618f0/component-ota/26/04/08/7dc957b3990f411fa0cf7da4c3a9406c.zip",
+      "discovered_at": "2026-04-25T02:37:25.250337",
+      "ota_version": "PGKM10_11.H.20_3200_202604032300",
+      "version_name_coloros": "ColorOS: PGKM10_15.0.0.1800(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGKM10_15.0.0.1601(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5c6e4d7820563819d52533ae3f4d78e4/component-ota/25/12/02/e4213e792a104bb3abd63f77f284638e.zip",
+      "discovered_at": "2026-04-25T02:37:25.250337",
+      "ota_version": "PGKM10_11.H.19_3190_202511271818",
+      "version_name_coloros": "ColorOS: PGKM10_15.0.0.1601(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGKM10_14.0.0.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bff432212436d6fb9a6578ae8cc1cd07/component-ota/24/02/27/ece5d3c87bf643b8b16e083385dddcee.zip",
+      "discovered_at": "2026-04-25T02:37:25.250337",
+      "ota_version": "PGKM10_11.F.32_2320_202402261716",
+      "version_name_coloros": "ColorOS: PGKM10_14.0.0.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGKM10_13.1.0.211(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f2ee4d47d2efcbac83ad79f36ef94b8f/component-ota/24/02/04/e93f516550e94c87b0811a3919708a0d.zip",
+      "discovered_at": "2026-04-25T02:37:25.250337",
+      "ota_version": "PGKM10_11.C.38_1380_202401301432",
+      "version_name_coloros": "ColorOS: PGKM10_13.1.0.211(CN01)",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PGKM10_11.A.23_0230_202212130857",
+      "version_name": "PGKM10_11_A.23",
+      "android_version": "Android 12",
+      "coloros_version": "ColorOS 12.1",
+      "security_patch": "2022-11-05",
+      "status": "found",
+      "published_time": "2023-01-03 19:50:17",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2ed34ff46b37a3524e213d3e7f0f0ef8/component-ota/22/12/13/891f4f13dfb74cecb4411fd043862f35.zip",
+      "size": "5857258032",
+      "md5": "5f9f22b7bf88ba01a942da4380c964a0",
+      "discovered_at": "2026-04-25T15:21:55.682879",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PGKM10_11.C.14_1140_202211141229",
+      "version_name": "PGKM10_11.C.14_1140_202211141229",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
