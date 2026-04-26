@@ -1,0 +1,25 @@
+{
+  "code": "RMX3850",
+  "model": "RMX3850",
+  "updatedAt": "2026-04-26T03:35:32.518Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX3850_11.A.37_0370_202501222236",
+      "version_name": "RMX3850_14.0.1.612(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.0.1",
+      "security_patch": "2024-10-05",
+      "status": "published",
+      "published_time": 1738933232,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-afac50a4c9c79a2cd1364cd9b213220b/component-ota/25/01/23/756b2d2a3bcd4a3faa9449c7e1c56fed.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-afac50a4c9c79a2cd1364cd9b213220b/component-ota/25/01/23/756b2d2a3bcd4a3faa9449c7e1c56fed.zip",
+      "size": "7975083687",
+      "md5": "973b510a663aad1c7993838151f39e0c",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-afac50a4c9c79a2cd1364cd9b213220b/component-ota/25/02/07/b3854c792c864f659730fdc942946274.html",
+      "discovered_at": "2026-04-25T02:55:59.434614",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
