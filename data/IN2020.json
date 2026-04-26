@@ -1,8 +1,8 @@
 {
   "code": "IN2020",
   "model": "一加8 Pro",
-  "updatedAt": "2026-04-25T20:14:09.726Z",
-  "versionCount": 7,
+  "updatedAt": "2026-04-26T03:35:32.535Z",
+  "versionCount": 9,
   "versions": [
     {
       "versionName": "ColorOS IN2020_13.1.0.181(CN01) F.68",
@@ -125,6 +125,33 @@
       "downloadUrl10": "https://gauss-cdnctrltrialmanual-cn.allawnfs.com/remove-07b181d33e5a990352f4141779e07322/component-ota/25/10/20/a8a1aecfbd604c468523a5941001a45b.zip",
       "downloadUrl11": "https://componentota-auto-cn.allawnfs.com/component-ota/25/10/20/a8a1aecfbd604c468523a5941001a45b.zip",
       "downloadUrl12": "https://component-ota-afs.coloros.com/component-ota/25/10/20/a8a1aecfbd604c468523a5941001a45b.zip"
+    },
+    {
+      "ota_version": "IN2020_11.A.00_0010_197001010000",
+      "version_name": "IN2020 - 已停止更新 (API 2004)",
+      "source": "ota_query",
+      "status": "discontinued",
+      "region": "CN",
+      "response_code": 2004,
+      "error_msg": "artifactV1Result is empty",
+      "discovered_at": "2026-04-25T15:08:12.975700",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "IN2020_11.F.66_2660_202305161556",
+      "version_name": "IN2020_13.1.0.120(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-05-05",
+      "status": "found",
+      "published_time": "2023-06-28 11:14:29",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-53da14007cae6adf1fc81f3b709152de/component-ota/23/05/17/927986c293594e7cb30fff8c7be43ca6.zip",
+      "size": "6259426066",
+      "md5": "ad1860177dbf64f101058a0d4a5e9ded",
+      "discovered_at": "2026-04-25T15:21:06.282779",
+      "source": "ota_query_v2",
+      "needsResolve": true
     }
   ]
 }
