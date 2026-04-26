@@ -1,8 +1,8 @@
 {
   "code": "NE2210",
   "model": "一加10 Pro",
-  "updatedAt": "2026-04-25T20:22:16.506Z",
-  "versionCount": 95,
+  "updatedAt": "2026-04-26T03:35:32.538Z",
+  "versionCount": 107,
   "versions": [
     {
       "versionName": "NE2210_16.0.3.510(CN01)",
@@ -1785,6 +1785,128 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-7559b8849705769d3f10819ada98f6a9/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/01/18/33681269102744af861590af93e7741c.zip?sign=49589b956de37b9cdf408c1f3ad6bb90&t=69ecf9bf&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777139911&Signature=KNe3kZXk%2B%2BxYfkXAxYqEzQLwcGs%3D"
+    },
+    {
+      "version_name": "NE2210_16.0.3.520(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=0d8669b26a227d320125c2728af85971&p=a6c78fdd3756888b30cedbac459767619f76fbe8183454f38dbf03e9942856c4e2ba67d9b6713622ee3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=caefbfbc699095523a39c55a2866600e&id=69bb9ab59e207b017bab13d1&taste=1&supportDLTaste=0&mode=1&s=4c50d083d8c413ed3706e5937775f2f6",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.J.93_4930_202603182256",
+      "version_name_coloros": "ColorOS: NE2210_16.0.3.520(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_16.0.3.510(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e7b15fa31162a54fb8526dc693d70e85&p=a6c78fdd3757888b39ce8efd469a64639775ffe84b6554f781b75ab8c2200294b9e936dce2786474be3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=65d73e5901e9d7cea3b1d1e91f9f9ead&id=698adf2d007ddc017e03ea36&taste=1&supportDLTaste=0&mode=1&s=18073ac72dbcc9a4685909d33e13c29c",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.J.92_4920_202602101258",
+      "version_name_coloros": "ColorOS: NE2210_16.0.3.510(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=7559b8849705769d3f10819ada98f6a9&p=a6c78fdd3754888b31cedeac449730669179fce1486154f3d4e85abe972d5892bbe96bd8b27f3723bc68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696cd0639e207b017baabd96&taste=1&supportDLTaste=0&mode=1&s=ffc4cc76f878eb737943bd7499e4cf2e",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.J.91_4910_202601172300",
+      "version_name_coloros": "ColorOS: NE2210_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ba0222ec78add3f5647ae8ba6a9dc262/component-ota/25/03/24/ee5c8f0f074041c4811d79fe8721a98e.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.H.84_3840_202503210240",
+      "version_name_coloros": "ColorOS: NE2210_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_15.0.0.1301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3a93c647b43955ffd44715653bfc1a85/component-ota/25/10/20/a0dc7bb0fd714bd8bed29ccf27c3a602.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.H.88_3880_202510171156",
+      "version_name_coloros": "ColorOS: NE2210_15.0.0.1301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_15.0.0.1202(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b5b6509695db7178add46351dd77d760/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.H.87_3870_202508291254",
+      "version_name_coloros": "ColorOS: NE2210_15.0.0.1202(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_14.0.0.940(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b4dabb9bf620f11c57b27d07b13f40ea/component-ota/24/12/18/07b992fdd2f34aa59e780ac0a9c683dd.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.F.80_2800_202412131718",
+      "version_name_coloros": "ColorOS: NE2210_14.0.0.940(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_14.0.0.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6843735f077607df7223d716c1e746d1/component-ota/23/12/27/aa79413c748e40b1b5ee600645cc1a22.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.F.66_2660_202312261622",
+      "version_name_coloros": "ColorOS: NE2210_14.0.0.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_13.1.0.196(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3e1cb6509678a4595aa62cee55f3f450/component-ota/23/10/13/cd8b54b891ea4e80b30ac84f95a5ec68.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.C.62_1620_202310112212",
+      "version_name_coloros": "ColorOS: NE2210_13.1.0.196(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "NE2210_11_C.26",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加10Pro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3ec1254401052f734f08405f406fe1b6/component-ota/23/01/04/af9585269f92423b93fba6561104f02f.zip",
+      "discovered_at": "2026-04-25T02:37:25.242643",
+      "ota_version": "NE2210_11.C.26_1260_202301032128",
+      "version_name_coloros": "ColorOS: NE2210_11_C.26",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "NE2210_11.A.07_0070_202201111440",
+      "version_name": "NE2210_11.A.07_0070_202201111440",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "NE2210_11.A.19_0190_202210202243",
+      "version_name": "ColorOS: ColorOS 12.1",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
