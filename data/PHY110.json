@@ -1,8 +1,8 @@
 {
   "code": "PHY110",
   "model": "Find X7 Ultra",
-  "updatedAt": "2026-04-25T20:04:03.624Z",
-  "versionCount": 10,
+  "updatedAt": "2026-04-26T03:35:32.547Z",
+  "versionCount": 19,
   "versions": [
     {
       "versionName": "PHY110_16.0.5.702(CN01)",
@@ -141,6 +141,100 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-48db82ddcc17c64d7d9a85cd472279fb/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/25/10/31/d9f8480d36584ceb9f6be4a662bafdc6.zip?sign=ab366a7628ce35ac4c10d55cd67c7900&t=69ecffb1&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141433&Signature=krc2bVLu5JCd8e2XPZg9UM9Pdes%3D"
+    },
+    {
+      "version_name": "PHY110_16.0.5.702(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=27978f9c81c98bb8bccfe8ca38921334&p=a6c78fdd3751888b39cedafa4b9f38639f72acb04e3554f785eb00ba927d53c4eab66a8fb278662fef3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1a33ce0a477d2f9945017042209960ce&id=69d8625d9e207b01827c06de&taste=1&supportDLTaste=0&mode=1&s=b71a3981cb2f55932c988d01749642a2",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.F.23_2230_202604091342",
+      "version_name_coloros": "ColorOS: PHY110_16.0.5.702(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=c6e78a2317fcc7149e13abd80bf9912d&p=a6c78fdd375688883dce88aa109c62659e22fde84f6354f5d1ed03ea952d50c3edb667d8e42e3825b43ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=300fdeee8b43a163359018b9f079a33e&id=69c28f6f9e207b017bab1d18&taste=1&supportDLTaste=0&mode=1&s=f33bdc777ed861c6f6d20ea791aa9e5e",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.F.22_2220_202603192044",
+      "version_name_coloros": "ColorOS: PHY110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a041e42c4798d2a1cd1d1747f32e4c51&p=a6c78fdd3754888b3aced4f9179a62359125f8e14e6654a18cbc5abdc52d52c4bebf6b89b42d6120b968d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=697c71099e207b017baad71a&taste=1&supportDLTaste=0&mode=1&s=ae8978c95386901f3dba5f041d7f23e2",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.F.20_2200_202601131704",
+      "version_name_coloros": "ColorOS: PHY110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=f12e692f8ca223b3a075e4a6631e7fc6&p=a6c78cdd3657888b3fce88f9419a64329f73fae4486054fed6bd5aba927b559aebbd37dce42c3320ee6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=695f8f16007ddc017e03acd8&taste=0&supportDLTaste=0&mode=1&s=1d20a248e1b4cfd5fa58796ed94164dd",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.F.19_2190_202512152002",
+      "version_name_coloros": "ColorOS: PHY110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_16.0.0.202(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=48db82ddcc17c64d7d9a85cd472279fb&p=a6c78cdd3655888938ce89a61497356c9724fee74f6e54a4d0ec5bee907a0496bbb964d9b5296673ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=695f92729e207b017baaa933&taste=0&supportDLTaste=0&mode=1&s=d423a63386f24424a3dd5772c87ae8b7",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.F.16_2160_202510311808",
+      "version_name_coloros": "ColorOS: PHY110_16.0.0.202(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_15.0.0.860(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7712629ad59df0c07eee3d813740b055/component-ota/25/09/09/8ab092d89a0540bab8b0390165efa87c.zip",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.C.63_1630_202509082258",
+      "version_name_coloros": "ColorOS: PHY110_15.0.0.860(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_15.0.0.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1c85bba19a6d31d9775eb87ba4058ed6/component-ota/25/01/06/e3fd190d79f34157a52aaed0339f01e3.zip",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.C.39_1390_202501041816",
+      "version_name_coloros": "ColorOS: PHY110_15.0.0.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHY110_14.0.1.790(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "OPPOFINDX7Ultra",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-727ec8536c0f016a0010b6118541c695/component-ota/24/10/10/cbf566ed5dfc4c61982f96c04ac5aa92.zip",
+      "discovered_at": "2026-04-25T02:37:25.226488",
+      "ota_version": "PHY110_11.A.92_0920_202410092006",
+      "version_name_coloros": "ColorOS: PHY110_14.0.1.790(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PHY110_11.A",
+      "version_name": "PHY110_11.A",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
