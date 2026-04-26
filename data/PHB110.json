@@ -1,8 +1,8 @@
 {
   "code": "PHB110",
   "model": "一加11",
-  "updatedAt": "2026-04-25T19:57:59.219Z",
-  "versionCount": 38,
+  "updatedAt": "2026-04-26T03:35:32.543Z",
+  "versionCount": 48,
   "versions": [
     {
       "versionName": "PHB110_16.0.5.701(CN01)",
@@ -609,6 +609,111 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://component-ota-cn.allawntech.com/downloadCheck?c=6e8944bc65fcf447607570b07622ca89&p=a6c78fdd3751888b3ccedbfa44cc34309074fee8423054a580b95bba952054c7e3b76ad9b32b3371bf33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3fb53f55c2829b7a067ba157328ceb8e&id=69df95999e207b01827c0f71&taste=1&supportDLTaste=0&mode=1&s=29fad864b291a7b9bc03251181ad4b6a"
+    },
+    {
+      "version_name": "PHB110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=6e8944bc65fcf447607570b07622ca89&p=a6c78fdd3751888b3ccedbfa44cc34309074fee8423054a580b95bba952054c7e3b76ad9b32b3371bf33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3fb53f55c2829b7a067ba157328ceb8e&id=69df95999e207b01827c0f71&taste=1&supportDLTaste=0&mode=1&s=29fad864b291a7b9bc03251181ad4b6a",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.H.11_3110_202604141658",
+      "version_name_coloros": "ColorOS: PHB110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=943951b5a6afd595fd88a3eec82e90d7&p=a6c78fdd3754888831ceddaa13c93666c622fee14f6e54f282ba03ba9520599aecbc378ab67d3426b533d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6979f52c9e207b017baad121&taste=1&supportDLTaste=0&mode=1&s=01f6fcc552cf6737594f468489f45e29",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.H.10_3100_202601281614",
+      "version_name_coloros": "ColorOS: PHB110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=2f0ab4c0d1b96e254107f29df3c57d11&p=a6c78cdd3657888b31ce8ea9139f6465c278ffb44f6e54a385ef03ba917b54c7e8b8308ab12d3174ee38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954f245007ddc017e03a097&taste=1&supportDLTaste=0&mode=1&s=65881316130b8e88130ffefac778c7b4",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.H.09_3090_202512172356",
+      "version_name_coloros": "ColorOS: PHB110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_16.0.1.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=32cd5ff42780d6aa47f6dcfdef8dd6d3&p=a6c78cdd3654888b31ce8ffd10cd6337c322f5e8193054f08dbe03ecc4205393e3ee66dfee7b6676b539d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69454a6a007ddc017e038976&taste=0&supportDLTaste=0&mode=1&s=ca771ece32ddd29193912e484518f2a6",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.H.08_3080_202511181646",
+      "version_name_coloros": "ColorOS: PHB110_16.0.1.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_15.0.0.861(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-962a9d668b60e942cce36c13c2d65e5d/component-ota/25/11/03/6a9a4b34de514b9593a2ef916c95c4e1.zip",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.F.35_2350_202510301632",
+      "version_name_coloros": "ColorOS: PHB110_15.0.0.861(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ba54f8d87dfbae6bb507c9d5a2e0bb8/component-ota/25/03/25/303d9e9c52c642a892e89cac503e5fd9.zip",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.F.26_2260_202503202313",
+      "version_name_coloros": "ColorOS: PHB110_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_14.0.0.813(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-577e54cc083f3ceeb8d47aa8ea0310a8/component-ota/24/10/22/16d20431b06a40829cfb401ae9a33b35.zip",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.C.59_1590_202410181355",
+      "version_name_coloros": "ColorOS: PHB110_14.0.0.813(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_14.0.0.401(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-65b469a8cb2cc3da1274aa2bd5ccf0a9/component-ota/24/01/22/cb880f96bb45403fa1a85764a73cc848.zip",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.C.49_1490_202401050050",
+      "version_name_coloros": "ColorOS: PHB110_14.0.0.401(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHB110_13.1.0.196(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加11",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f590b38c61b58a639b3f228f90c8740f/component-ota/23/10/23/3139a5770e414640ad62f5406b5b9e26.zip",
+      "discovered_at": "2026-04-25T02:37:25.243742",
+      "ota_version": "PHB110_11.A.29_0290_202310192011",
+      "version_name_coloros": "ColorOS: PHB110_13.1.0.196(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PHB110_11.A.07_0070_202301072338",
+      "version_name": "PHB110_11.A.07_0070_202301072338",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
