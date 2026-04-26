@@ -1,0 +1,24 @@
+{
+  "code": "RMX3993",
+  "model": "RMX3993",
+  "updatedAt": "2026-04-26T03:35:32.521Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "responseCode": 200,
+      "ota_version": "RMX3993_11.A.29_0290_202501021856",
+      "version_name": "RMX3993_14.0.1.518(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.0.1",
+      "security_patch": "2024-12-05",
+      "status": "found",
+      "published_time": "2025-03-07 15:22:19",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1290f4378c36688ec50efdb272d88479/component-ota/25/01/07/6690e47451a14fbd8231b3e48498b53c.zip",
+      "size": "5833944416",
+      "md5": "a8248904b71f478b27b6fa4a5f796704",
+      "discovered_at": "2026-04-25T15:22:34.563131",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
