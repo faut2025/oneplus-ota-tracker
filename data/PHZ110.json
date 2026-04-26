@@ -1,8 +1,8 @@
 {
   "code": "PHZ110",
   "model": "Find X7",
-  "updatedAt": "2026-04-25T20:04:08.602Z",
-  "versionCount": 6,
+  "updatedAt": "2026-04-26T03:35:32.548Z",
+  "versionCount": 7,
   "versions": [
     {
       "versionName": "PHZ110_16.0.5.700(CN01)",
@@ -87,6 +87,23 @@
       "md5": "7821f15b000446f15b75caf77c63d13a",
       "downloadUrl": "https://gauss-compotacostauto-cn.allawnfs.com/remove-11e2539affa464bceb40dbc63b8c4515/component-ota/24/02/27/39321105cd7d47168a54d1163087e39d.zip",
       "downloadUrl2": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-11e2539affa464bceb40dbc63b8c4515/component-ota/24/02/27/39321105cd7d47168a54d1163087e39d.zip"
+    },
+    {
+      "ota_version": "PHZ110_11.A.93_0930_202410082114",
+      "version_name": "PHZ110_14.0.1.750(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.1.0",
+      "security_patch": "2024-10-05",
+      "status": "published",
+      "published_time": 1730727613,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-63ebab3a3fa27aaa51c4fa87d3cf59c6/component-ota/24/10/09/f90313b0f4934deea0f30fef59b0e0b3.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-63ebab3a3fa27aaa51c4fa87d3cf59c6/component-ota/24/10/09/f90313b0f4934deea0f30fef59b0e0b3.zip",
+      "size": "8004719509",
+      "md5": "7134148104aabf806d8522ecaaa59510",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-63ebab3a3fa27aaa51c4fa87d3cf59c6/component-ota/24/11/04/777c19a42fa1462f98217fb787f039e4.html",
+      "discovered_at": "2026-04-25T02:55:03.371515",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
