@@ -1,0 +1,58 @@
+{
+  "code": "RMX5200",
+  "model": "RMX5200",
+  "updatedAt": "2026-04-26T03:35:32.532Z",
+  "versionCount": 5,
+  "versions": [
+    {
+      "version_name": "RMX5200_16.0.5.704(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "真我GT8Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=b05645c4e3c0dddedadacd4f9a598cb4&p=a6c78fdd3751888b3cced5a74a9d37379777fdb44f3554f4d7b85aed93285892bfee34dee22d392fb56ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=ca0c8de1c6127a7cb4167d4a74581781&id=69e96d679e207b01827c1ccb&taste=0&supportDLTaste=0&mode=1&s=22ee2218dd7dde5f869dcebd434d4be6",
+      "discovered_at": "2026-04-25T02:37:25.272604",
+      "ota_version": "RMX5200_11.A.67_0670_202604141230",
+      "version_name_coloros": "ColorOS: RMX5200_16.0.5.704(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "RMX5200_16.0.5.702(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "真我GT8Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=09756cd1c6f45644555262e4b51382fb&p=a6c78fdd3756888839ced4ad4698636d9522f5b54b6154f480b700ea907c50c3bebc6bdde52e6174bd3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1e3de5723f220121a1b669631f541eae&id=69c9ceee9e207b017bab241f&taste=0&supportDLTaste=0&mode=1&s=bd2fd2e06c2a780faef8c1535035a363",
+      "discovered_at": "2026-04-25T02:37:25.272604",
+      "ota_version": "RMX5200_11.A.66_0660_202603181840",
+      "version_name_coloros": "ColorOS: RMX5200_16.0.5.702(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "RMX5200_16.0.3.502(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "真我GT8Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=07ee46d240ee8bcdd79f11c759e283e8&p=a6c78fdd375488883aced9fd419f60629f78feb54c6654a283be5aeac32105c4e8ba65d2e62a3727bc33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69801b819e207b017baad9cb&taste=0&supportDLTaste=0&mode=1&s=5311c65c70a649d144673baf990df2ab",
+      "discovered_at": "2026-04-25T02:37:25.272604",
+      "ota_version": "RMX5200_11.A.63_0630_202601222358",
+      "version_name_coloros": "ColorOS: RMX5200_16.0.3.502(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "RMX5200_16.0.2.401(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "真我GT8Pro",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=2c15c171d303013541ad561408f6f59a&p=a6c78cdd3657888839cedff9439d376c9f26f5b5436f54f184b65aec927a5797e2ba608fb67e392fec38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954f282007ddc017e03a098&taste=0&supportDLTaste=0&mode=1&s=2c1e9591123730a57847c2798cdbae14",
+      "discovered_at": "2026-04-25T02:37:25.272604",
+      "ota_version": "RMX5200_11.A.61_0610_202512192324",
+      "version_name_coloros": "ColorOS: RMX5200_16.0.2.401(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "RMX5200_11.A.59_0590_202512040103",
+      "version_name": "RMX5200_11.A.59_0590_202512040103",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
