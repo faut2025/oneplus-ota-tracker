@@ -1,8 +1,8 @@
 {
   "code": "PLF110",
   "model": "一加Ace5竞速",
-  "updatedAt": "2026-04-25T20:00:10.171Z",
-  "versionCount": 6,
+  "updatedAt": "2026-04-26T03:35:32.559Z",
+  "versionCount": 13,
   "versions": [
     {
       "versionName": "PLF110_16.0.5.701(CN01)",
@@ -84,6 +84,78 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-f82c11c36a0a83b2a5fea191dcb57c16/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/01/12/f1c27b37b512477f82388d5ff3ffa595.zip?sign=5807de2c8549b976ee04f08f87f3bbc3&t=69ecff8b&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141395&Signature=OAvjv8Ry5Bt3vthZx3THNOrCLBk%3D"
+    },
+    {
+      "version_name": "PLF110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a5bac00e0aa49ff78847282e9911f996&p=a6c78fdd3756888b3fcedea8439b396c9f25afb7436154f780ed5bee962857c6edea61dbe07b3576be3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=4b03d969a15e6d2d1abcdcfaf73ba18d&id=69b76b479e207b017bab0ccb&taste=1&supportDLTaste=0&mode=1&s=1fd05c8a41f0f96edfe46d368dcb7ea7",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.C.42_1420_202603131916",
+      "version_name_coloros": "ColorOS: PLF110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLF110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=f82c11c36a0a83b2a5fea191dcb57c16&p=a6c78fdd3754888b3bce8bae119d36369477afe44b6454f082e85aba952059c6efe934d8b12e6122b43ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69648f16007ddc017e03b1c8&taste=1&supportDLTaste=0&mode=1&s=79c52180f630bfd320e37df0e944c060",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.C.41_1410_202601111802",
+      "version_name_coloros": "ColorOS: PLF110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLF110_16.0.2.401(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=fe925e051844e0ac421bd6a57d9cc675&p=a6c78cdd3657888b39cedfab469f63319770f8e0436f54a683ea03ed932c51c6ebeb368fe02c3424b468d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694937ec9e207b017baa894d&taste=0&supportDLTaste=0&mode=1&s=cc1312c55d53bb9280148f1d92977d66",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.C.40_1400_202512100050",
+      "version_name_coloros": "ColorOS: PLF110_16.0.2.401(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLF110_16.0.1.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=53ef254aa20d81bf9987ea6af0688dbc&p=a6c78cdd3654888b3dce8ea9169f6435c224fde81f3254f08cbd03bb9e2b0595b9b836d3e4713127ba32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69322b1d9e207b017baa69f3&taste=0&supportDLTaste=0&mode=1&s=90a5f3fb7676abd7f69a3db13ddc8ce1",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.C.38_1380_202511132350",
+      "version_name_coloros": "ColorOS: PLF110_16.0.1.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLF110_16.0.0.203(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=26015ea2c62cd641c00edcf2178c552f&p=a6c78cdd365588883eced8f9139933679770f5e1186654fe81bc03ed962b05c1eced30ddb62b6426e93ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6937d3df9e207b017baa70c8&taste=0&supportDLTaste=0&mode=1&s=cbb709d67742fa5f48b6e457f35cb110",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.C.37_1370_202510262318",
+      "version_name_coloros": "ColorOS: PLF110_16.0.0.203(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLF110_15.0.2.600(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE5竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6005388cc23d482efe54cba427dd83b7/component-ota/25/09/02/c4a625e875104afa95e0fe497512d04e.zip",
+      "discovered_at": "2026-04-25T02:37:25.255337",
+      "ota_version": "PLF110_11.A.26_0260_202508281936",
+      "version_name_coloros": "ColorOS: PLF110_15.0.2.600(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PLF110_11.A.17_0170_202505221717",
+      "version_name": "PLF110_11.A.17_0170_202505221717",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
