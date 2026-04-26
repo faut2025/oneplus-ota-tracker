@@ -1,0 +1,25 @@
+{
+  "code": "PHQ110",
+  "model": "PHQ110",
+  "updatedAt": "2026-04-26T03:35:32.474Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PHQ110_11.C.41_1410_202405142148",
+      "version_name": "PHQ110_14.0.0.700(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.0.0",
+      "security_patch": "2024-05-05",
+      "status": "published",
+      "published_time": 1717804513,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-7ea4263e9dbc6538a13ec3d255fa0afc/component-ota/24/05/16/a4b32ce5ec5049fda295083356864d2a.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ea4263e9dbc6538a13ec3d255fa0afc/component-ota/24/05/16/a4b32ce5ec5049fda295083356864d2a.zip",
+      "size": "6664956098",
+      "md5": "3d2ed1f5a3e332faac9004521f410b77",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-7ea4263e9dbc6538a13ec3d255fa0afc/component-ota/24/06/07/d5e46ad66282499288a5610968352ffb.html",
+      "discovered_at": "2026-04-25T02:55:05.678429",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
