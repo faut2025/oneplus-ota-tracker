@@ -1,8 +1,8 @@
 {
   "code": "PJX110",
   "model": "一加Ace3Pro",
-  "updatedAt": "2026-04-25T20:00:19.060Z",
-  "versionCount": 31,
+  "updatedAt": "2026-04-26T03:35:32.552Z",
+  "versionCount": 40,
   "versions": [
     {
       "versionName": "PJX110_16.0.5.701(CN01)",
@@ -601,6 +601,100 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://gauss-compota-c-cn.allawnfs.com/remove-6aa621fd7683883101fe8e05c00990fe/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/01/20/1030adf9dd4948c081f5257b6fdf61d4.zip?sign=c63e35fc74a272d0a1dcadb1bc0e0359&t=69ecff83&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1777141387&Signature=HClmC4ldxGs2KNcHbT5r9kobPsk%3D"
+    },
+    {
+      "version_name": "PJX110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a39fc75063832d557a24f7ab02a02380&p=a6c78fdd3751888b3dce8bfe10ce33359121abb2426554ff81bd5abd932d589bbbe96589b27e3474eb3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=5063aaf350ad7843a901cfab056d315e&id=69e8360f9e207b01827c1a87&taste=1&supportDLTaste=0&mode=1&s=676c7caf3c9ca12537a2f9ec38e7cc7e",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.F.16_2160_202604131742",
+      "version_name_coloros": "ColorOS: PJX110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_16.0.3.501(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=13b9e29684b8655ad43384c48d26a52d&p=a6c78fdd3757888a3cce8bab13cc67609072aee54d6354ff80ec03eac2280595e8bb618aef2a3476b56fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=d23cb4caf71e08dd8013cef2ea310020&id=69847f70007ddc017e03e529&taste=0&supportDLTaste=0&mode=1&s=c06130c45aca055c2cacc49d44539c30",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.F.15_2150_202602051458",
+      "version_name_coloros": "ColorOS: PJX110_16.0.3.501(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=6aa621fd7683883101fe8e05c00990fe&p=a6c78fdd3754888839cedcaf419f6030c179a9b54e6f54ffd6be5ab9c02d5397eded648db32e3626e93fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69702391007ddc017e03c59e&taste=1&supportDLTaste=0&mode=1&s=c67e6a42884831ab0652652a78855484",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.F.14_2140_202601202020",
+      "version_name_coloros": "ColorOS: PJX110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e5423c93913a3c63699692427f640508&p=a6c78cdd3657888b30cedfaa409a6335c675f5e34f6054a184b603bf907a5093ecba66dcef2d352eb439d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954fc54007ddc017e03a0a8&taste=1&supportDLTaste=0&mode=1&s=8f036d49c10f48ea36a637b81484d463",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.F.13_2130_202512181912",
+      "version_name_coloros": "ColorOS: PJX110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_16.0.1.301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=774eba89170ff49483e7f14d5b65afc3&p=a6c78cdd3654888b31ce8ef9429e34659e78a9e7426e54a584ef5bb9c42a5095b9e9678de7293275ee3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694933479e207b017baa8945&taste=1&supportDLTaste=0&mode=1&s=6eacdd33789a5245a80658de2f982c8f",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.F.12_2120_202511161234",
+      "version_name_coloros": "ColorOS: PJX110_16.0.1.301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_15.0.0.861(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d800116f158f69457e30674195e01887/component-ota/25/10/13/1648a6b3e4054affb8dcbbb57fbee424.zip",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.C.39_1390_202510112122",
+      "version_name_coloros": "ColorOS: PJX110_15.0.0.861(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_15.0.0.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f99f1068be35f958fc5ebf81dfdc6727/component-ota/25/01/15/366c427cf14c450e98e3413f7cc31e92.zip",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.C.21_1210_202501102256",
+      "version_name_coloros": "ColorOS: PJX110_15.0.0.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PJX110_14.1.0.510(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE3PRO",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f9e23a96a8d4dd2669334aa285e23183/component-ota/24/10/24/bbfc4e2fcf734aab874d6787d15d558b.zip",
+      "discovered_at": "2026-04-25T02:37:25.252337",
+      "ota_version": "PJX110_11.A.41_0410_202410221156",
+      "version_name_coloros": "ColorOS: PJX110_14.1.0.510(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PJX110_11.A.26_0260_202406251436",
+      "version_name": "PJX110_11.A.26_0260_202406251436",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
