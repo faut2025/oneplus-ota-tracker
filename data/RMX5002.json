@@ -1,0 +1,35 @@
+{
+  "code": "RMX5002",
+  "model": "RMX5002",
+  "updatedAt": "2026-04-26T03:35:32.523Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "RMX5002_11.A.00_0010_197001010000",
+      "version_name": "RMX5002 - 已停止更新 (API 2004)",
+      "source": "ota_query",
+      "status": "discontinued",
+      "region": "EU",
+      "response_code": 2004,
+      "error_msg": "artifactV1Result is empty",
+      "discovered_at": "2026-04-25T15:09:15.311622",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "RMX5002_11.A.78_0780_202411191412",
+      "version_name": "RMX5002_14.1.0.600(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.1.0",
+      "security_patch": "2024-11-05",
+      "status": "found",
+      "published_time": "2024-12-13 11:32:28",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-61a93f75ef01d26818bedbcf5859a473/component-ota/24/11/21/0a67e209711548f094c6781c8b399428.zip",
+      "size": "7758995678",
+      "md5": "c24b56d90be087a7864dea1f8274cbd3",
+      "discovered_at": "2026-04-25T15:24:15.523232",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
