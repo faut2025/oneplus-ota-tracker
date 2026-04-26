@@ -1,0 +1,25 @@
+{
+  "code": "PHM110",
+  "model": "PHM110",
+  "updatedAt": "2026-04-26T03:35:32.473Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PHM110_11.A.51_0510_202401042256",
+      "version_name": "PHM110_13.1.0.185(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2024-01-05",
+      "status": "published",
+      "published_time": 1729082463,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-a3cad497856176604f8da87e0e3a5659/component-ota/24/01/09/5bc1303f0c0b4f2b8bb722304916f7e5.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a3cad497856176604f8da87e0e3a5659/component-ota/24/01/09/5bc1303f0c0b4f2b8bb722304916f7e5.zip",
+      "size": "7094410036",
+      "md5": "7169032c865166e08123553308ea69a5",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-a3cad497856176604f8da87e0e3a5659/component-ota/24/02/04/4358f938d4344e588eb14f685cf5c2c0.html",
+      "discovered_at": "2026-04-25T02:55:25.699378",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
