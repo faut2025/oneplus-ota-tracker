@@ -1,8 +1,8 @@
 {
   "code": "PHK110",
   "model": "一加Ace2",
-  "updatedAt": "2026-04-25T20:03:08.870Z",
-  "versionCount": 61,
+  "updatedAt": "2026-04-26T03:35:32.544Z",
+  "versionCount": 70,
   "versions": [
     {
       "versionName": "ColorOS PHK110_13.0.0 A.08",
@@ -1217,6 +1217,100 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://component-ota-cn.allawntech.com/downloadCheck?c=93b5c30fbc501bf6f4395a4c3290f688&p=a6c78fdd375788883fcedafb179860319073a9e51f6754f486ed5aee9e7e5296b8bf368de1796674ef6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f8fa447225b504e6c1063b6fe6808453&id=69a04eca9e207b017baaf028&taste=1&supportDLTaste=0&mode=1&s=31034bab8f79bfcc606c5238fd11e718"
+    },
+    {
+      "version_name": "PHK110_16.0.3.501(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=93b5c30fbc501bf6f4395a4c3290f688&p=a6c78fdd375788883fcedafb179860319073a9e51f6754f486ed5aee9e7e5296b8bf368de1796674ef6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f8fa447225b504e6c1063b6fe6808453&id=69a04eca9e207b017baaf028&taste=1&supportDLTaste=0&mode=1&s=31034bab8f79bfcc606c5238fd11e718",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.H.54_3540_202602261836",
+      "version_name_coloros": "ColorOS: PHK110_16.0.3.501(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=fc183a780cb3b72423b314c4b2bcb3f1&p=a6c78fdd3754888b3bcedeae109a6036c674fab41e6454a180ec5bbe977e0295ecec678de77f6125bc3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6963d158007ddc017e03b08d&taste=1&supportDLTaste=0&mode=1&s=103ec272d5cbef0488c1ed15589b3827",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.H.53_3530_202601100115",
+      "version_name_coloros": "ColorOS: PHK110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_16.0.1.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=8daa83d522f0a019f71dc0da70cc2838&p=a6c78cdd3657888a3cce8eab4ac96362c473a8e24c3054f1d4bb00be967d5994eeb63689b1783972b839d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954eddd007ddc017e03a08d&taste=1&supportDLTaste=0&mode=1&s=9be2a63c18470c3dc2ef099b8ac0e274",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.H.52_3520_202512042126",
+      "version_name_coloros": "ColorOS: PHK110_16.0.1.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_15.0.0.870(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db8f60de7c551205b6604621ce89965a/component-ota/25/11/06/a33189032d2c4f0a9637109c5a9bbbff.zip",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.F.47_2470_202511061312",
+      "version_name_coloros": "ColorOS: PHK110_15.0.0.870(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_15.0.0.601(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-374c67f9dbe3de3edbb20c1772f12de7/component-ota/25/02/05/1f899ad2fcf746ea8937ecbe02efbf81.zip",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.F.35_2350_202501261430",
+      "version_name_coloros": "ColorOS: PHK110_15.0.0.601(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_14.0.0.808(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8ab1937c6cb086af71394df96314eee1/component-ota/24/10/22/72f24e1366564274ab99e2819a6677ab.zip",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.C.57_1570_202410181206",
+      "version_name_coloros": "ColorOS: PHK110_14.0.0.808(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_14.0.0.301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cd003a46e100caecb0a4b91e47adf254/component-ota/24/01/29/2f07e8a05759446ab6022f99b8c7f817.zip",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.C.41_1410_202401290211",
+      "version_name_coloros": "ColorOS: PHK110_14.0.0.301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHK110_13.1.0.184(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ad30147b73d929721a59ae5cb78e9596/component-ota/23/11/13/cdb816ee265246d6978f5cb1ace8f84f.zip",
+      "discovered_at": "2026-04-25T02:37:25.258385",
+      "ota_version": "PHK110_11.A.45_0450_202311131450",
+      "version_name_coloros": "ColorOS: PHK110_13.1.0.184(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PHK110_11.A.20_0200_202304120918",
+      "version_name": "PHK110_11.A.20_0200_202304120918",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
