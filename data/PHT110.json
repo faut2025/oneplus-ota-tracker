@@ -1,8 +1,8 @@
 {
   "code": "PHT110",
   "model": "一加OnePlus Ace",
-  "updatedAt": "2026-04-25T20:22:35.835Z",
-  "versionCount": 35,
+  "updatedAt": "2026-04-26T03:35:32.546Z",
+  "versionCount": 36,
   "versions": [
     {
       "versionName": "ColorOS PGKM10_13.0.0 C.14",
@@ -726,6 +726,23 @@
       "downloadUrl8": "https://gauss-otacostmanual-in.allawnofs.com/remove-a94c0d05cf628b6b5c8ea67f2dc5f3e0/component-ota/25/05/30/a98d23205622461d93ee0a552d1ea4c6.zip",
       "downloadUrl9": "https://gauss-otacostmanual-sg.allawnofs.com/remove-a94c0d05cf628b6b5c8ea67f2dc5f3e0/component-ota/25/05/30/a98d23205622461d93ee0a552d1ea4c6.zip",
       "descriptionUrl": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-a94c0d05cf628b6b5c8ea67f2dc5f3e0/component-ota/25/06/16/910a7f888f1c4b0d8e9db233597dd1b9.html"
+    },
+    {
+      "ota_version": "PHT110_11.A.80_0800_202401032358",
+      "version_name": "PHT110_13.2.0.300(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.2.0",
+      "security_patch": "2024-01-05",
+      "status": "published",
+      "published_time": 1705407160,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-79fdb342e6665c60a5232003130e0acd/component-ota/24/01/05/9cf8ffcc09d1420ba1d24b6a858de109.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-79fdb342e6665c60a5232003130e0acd/component-ota/24/01/05/9cf8ffcc09d1420ba1d24b6a858de109.zip",
+      "size": "8554667279",
+      "md5": "c6d7796233b9d7906c0ea18cbf53e72f",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-79fdb342e6665c60a5232003130e0acd/component-ota/24/01/16/30a8d735b3e54d1c97f62cc6ca0f30be.html",
+      "discovered_at": "2026-04-25T02:55:14.909668",
+      "source": "ota_query",
+      "needsResolve": true
     }
   ]
 }
