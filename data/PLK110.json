@@ -1,8 +1,8 @@
 {
   "code": "PLK110",
   "model": "一加15",
-  "updatedAt": "2026-04-25T19:54:13.876Z",
-  "versionCount": 9,
+  "updatedAt": "2026-04-26T03:35:32.560Z",
+  "versionCount": 16,
   "versions": [
     {
       "versionName": "PLK110_16.0.5.702(CN01)",
@@ -126,6 +126,78 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://component-ota-cn.allawntech.com/downloadCheck?c=7fc6fdcae1c1ccc8372814b84f8ef751&p=a6c78fdd3751888b3aced4f9119731669477f4e34f3554f1d1b800ea937a55c7e3b66188ee2c6221eb6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=690e14c9568bf070da1f2a64fda83caf&id=69dc8a429e207b01827c0acf&taste=1&supportDLTaste=0&mode=1&s=41cf44ff7e59fe0b00f7903180aa6db4"
+    },
+    {
+      "version_name": "PLK110_16.0.5.702(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=7fc6fdcae1c1ccc8372814b84f8ef751&p=a6c78fdd3751888b3aced4f9119731669477f4e34f3554f1d1b800ea937a55c7e3b66188ee2c6221eb6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=690e14c9568bf070da1f2a64fda83caf&id=69dc8a429e207b01827c0acf&taste=1&supportDLTaste=0&mode=1&s=41cf44ff7e59fe0b00f7903180aa6db4",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.47_0470_202604091338",
+      "version_name_coloros": "ColorOS: PLK110_16.0.5.702(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLK110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=01a92c7a892616cef2719b66557c0d35&p=a6c78fdd3756888a3cced4aa429732379321f4e64c6e54a5d0eb03eb977b0792bee963dae47b6120b86ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=256c5f60cd987499fef08a5938d4f527&id=69b11840007ddc017e0408be&taste=1&supportDLTaste=0&mode=1&s=7ccf3626e23be7deba1effde580714a0",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.46_0460_202603042220",
+      "version_name_coloros": "ColorOS: PLK110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLK110_16.0.3.503(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=56698da4b5de0648ff14c2ccf3bfce54&p=a6c78fdd3754888b3acedefd179d3837c176a8e31e6354f381ea00bec22104c1bbbf6a89b3796472be6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69662c8f007ddc017e03b553&taste=1&supportDLTaste=0&mode=1&s=00e9226cfd894f1641a5357daa7b8d7d",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.42_0420_202601130103",
+      "version_name_coloros": "ColorOS: PLK110_16.0.3.503(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLK110_16.0.3.502(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e409a21a52eee29472b67e1435f72b68&p=a6c78fdd3754888a3dcedfac10966363c478f8e8196e54a4d7b85abec27956c6ebb7378ae37c6475b569d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6959ad4e9e207b017baa9d25&taste=1&supportDLTaste=0&mode=1&s=b6a6451bec46a976c9a76243da2f16ba",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.41_0410_202601040056",
+      "version_name_coloros": "ColorOS: PLK110_16.0.3.502(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLK110_16.0.2.402(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=30ca86d045de3f122258254d94f3b510&p=a6c78cdd3657888b3acedaa74bca6364c479fbe7426354f5d3eb5beec5200593ebbd318ae3793120e932d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694a44cf007ddc017e038f4a&taste=0&supportDLTaste=0&mode=1&s=11f593687d69d1b7afb6f1f720cfab2c",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.37_0370_202512122226",
+      "version_name_coloros": "ColorOS: PLK110_16.0.2.402(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PLK110_16.0.2.401(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加15",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=e31f61f75834bcdffee749aab4c76367&p=a6c78cdd3657888a3dced8fc40ca3760c674fbe54e3354ff81ba03ed92795591bce93688ee7a632fef39d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69424cc49e207b017baa803e&taste=0&supportDLTaste=0&mode=1&s=54e325f0b6a1732668638a2ecb225845",
+      "discovered_at": "2026-04-25T02:37:25.248331",
+      "ota_version": "PLK110_11.A.35_0350_202512032352",
+      "version_name_coloros": "ColorOS: PLK110_16.0.2.401(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PLK110_11.A.21_0210_202510130207",
+      "version_name": "PLK110_11.A.21_0210_202510130207",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
