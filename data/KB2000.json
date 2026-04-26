@@ -1,8 +1,8 @@
 {
   "code": "KB2000",
   "model": "一加8T",
-  "updatedAt": "2026-04-25T20:16:54.316Z",
-  "versionCount": 32,
+  "updatedAt": "2026-04-26T03:35:32.536Z",
+  "versionCount": 34,
   "versions": [
     {
       "versionName": "ColorOS KB2000_13.1.0.183(CN01) F.71",
@@ -562,6 +562,33 @@
       "downloadUrl": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-321c974e5931c5438d3cf3b7104102ac/component-ota/24/10/09/c6654c8a15d7487bb5a5c87708ad46af.zip",
       "downloadUrl2": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-321c974e5931c5438d3cf3b7104102ac/component-ota/24/10/09/c6654c8a15d7487bb5a5c87708ad46af.zip",
       "downloadUrl3": "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-321c974e5931c5438d3cf3b7104102ac/component-ota/24/10/09/c6654c8a15d7487bb5a5c87708ad46af.zip"
+    },
+    {
+      "ota_version": "KB2000_11.A.00_0010_197001010000",
+      "version_name": "KB2000 - 已停止更新 (API 2004)",
+      "source": "ota_query",
+      "status": "discontinued",
+      "region": "CN",
+      "response_code": 2004,
+      "error_msg": "artifactV1Result is empty",
+      "discovered_at": "2026-04-25T15:08:12.579879",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "KB2000_11.F.67_2670_202305111850",
+      "version_name": "KB2000_13.1.0.121(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-04-05",
+      "status": "found",
+      "published_time": "2023-06-28 14:04:56",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b3b007943a13133c3aa71f769def7096/component-ota/23/05/11/43a3edd905ee4ceebbb838f6354cf09b.zip",
+      "size": "6280203107",
+      "md5": "d845174c36690c94932793a6a778e30f",
+      "discovered_at": "2026-04-25T15:21:07.592781",
+      "source": "ota_query_v2",
+      "needsResolve": true
     }
   ]
 }
