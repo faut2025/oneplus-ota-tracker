@@ -1,0 +1,25 @@
+{
+  "code": "RMX3663",
+  "model": "RMX3663",
+  "updatedAt": "2026-04-26T03:35:32.498Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX3663_11.A.64_0640_202401181056",
+      "version_name": "RMX3663_11_A.64",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.0.0",
+      "security_patch": "2024-01-05",
+      "status": "published",
+      "published_time": 1708927999,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-3449c7549ae34a5204e0714ccd9306d6/component-ota/24/01/19/104552fe917c454eb26abf572c54bdbb.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3449c7549ae34a5204e0714ccd9306d6/component-ota/24/01/19/104552fe917c454eb26abf572c54bdbb.zip",
+      "size": "6366875753",
+      "md5": "2b90bd6509f7ed22ad5132fa3184a7b9",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-3449c7549ae34a5204e0714ccd9306d6/component-ota/24/02/26/9667c6ff88c9450f97556392c409d874.html",
+      "discovered_at": "2026-04-25T02:56:48.586731",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
