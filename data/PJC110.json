@@ -1,0 +1,25 @@
+{
+  "code": "PJC110",
+  "model": "PJC110",
+  "updatedAt": "2026-04-26T03:35:32.477Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PJC110_11.A.07_0070_202312271851",
+      "version_name": "PJC110_13.1.1.504(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.1",
+      "security_patch": "2024-01-05",
+      "status": "published",
+      "published_time": 1705979577,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-e66a2717d0e14a0ca02b6679134b891a/component-ota/24/01/02/a8626431a9fe44b38a085f6889e2ede5.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e66a2717d0e14a0ca02b6679134b891a/component-ota/24/01/02/a8626431a9fe44b38a085f6889e2ede5.zip",
+      "size": "7108626466",
+      "md5": "e7e8c0e44b1dac6e772c05fe9719c6c7",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-e66a2717d0e14a0ca02b6679134b891a/component-ota/24/01/22/d5e1a723bf2c4ba7848cceb6953c4980.html",
+      "discovered_at": "2026-04-25T02:55:38.456669",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
