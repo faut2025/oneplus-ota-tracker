@@ -1,0 +1,25 @@
+{
+  "code": "PGU110",
+  "model": "PGU110",
+  "updatedAt": "2026-04-26T03:35:32.469Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PGU110_11.A.46_0460_202310171706",
+      "version_name": "PGU110_13.1.0.184(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-10-05",
+      "status": "published",
+      "published_time": 1729235875,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-69bc9dfcef98475b7deacd03f599aaa8/component-ota/23/10/18/217167adb45e4b26a72909461f9667e6.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69bc9dfcef98475b7deacd03f599aaa8/component-ota/23/10/18/217167adb45e4b26a72909461f9667e6.zip",
+      "size": "8181932296",
+      "md5": "82b1a9ec349929a56278c35e520c4f6b",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-69bc9dfcef98475b7deacd03f599aaa8/component-ota/23/11/21/f48193d19a8a42009177efc6713f7ea1.html",
+      "discovered_at": "2026-04-25T02:55:17.221106",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
