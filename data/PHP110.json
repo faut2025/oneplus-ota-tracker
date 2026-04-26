@@ -1,8 +1,8 @@
 {
   "code": "PHP110",
   "model": "一加Ace2V",
-  "updatedAt": "2026-04-25T20:02:58.966Z",
-  "versionCount": 51,
+  "updatedAt": "2026-04-26T03:35:32.545Z",
+  "versionCount": 60,
   "versions": [
     {
       "versionName": "ColorOS PHP110_13.0.0 A.08",
@@ -893,6 +893,100 @@
       "size": "",
       "md5": "",
       "downloadUrl": "https://component-ota-cn.allawntech.com/downloadCheck?c=a0538187cf19018a0070048cf78de848&p=a6c78fdd3751888b3acedda7149b396d9722fab41f6054f080ea03b1937b0094e9bf65d9b67e612eba39d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=846356723978d0aebd558fcd271ae348&id=69dc4e789e207b01827c08f2&taste=1&supportDLTaste=0&mode=1&s=068ffe1c3709ab63ee6c267d43eec5f5"
+    },
+    {
+      "version_name": "PHP110_16.0.5.701(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=a0538187cf19018a0070048cf78de848&p=a6c78fdd3751888b3acedda7149b396d9722fab41f6054f080ea03b1937b0094e9bf65d9b67e612eba39d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=846356723978d0aebd558fcd271ae348&id=69dc4e789e207b01827c08f2&taste=1&supportDLTaste=0&mode=1&s=068ffe1c3709ab63ee6c267d43eec5f5",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.H.10_3100_202604091658",
+      "version_name_coloros": "ColorOS: PHP110_16.0.5.701(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_16.0.3.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=dc1ac2e1f83da6dc559151b096396c90&p=a6c78fdd3757888a3cce8ffc179d63639472f4e54c3254f6d1bf5bb0902e07c7edb9648de32e362ee83ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=889e8257786e4d72335b380e02437383&id=698483189e207b017baae218&taste=1&supportDLTaste=0&mode=1&s=17fe2e8585b3eef1531d4e813f419f78",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.H.09_3090_202602050156",
+      "version_name_coloros": "ColorOS: PHP110_16.0.3.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_16.0.2.400(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://component-ota-cn.allawntech.com/downloadCheck?c=d9eb78e11c1dfc79014aba4b75d0d430&p=a6c78cdd3657888b38ced9fe4b99376d9373aee04f6554f3d6ea03bb937e5192b8be65dfb229362fba6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=695295f5007ddc017e039c0c&taste=1&supportDLTaste=0&mode=1&s=caaee07e0c63975fe4d9d5e8d4127cfe",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.H.07_3070_202512101658",
+      "version_name_coloros": "ColorOS: PHP110_16.0.2.400(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f186955feb310110f64e5321320b7a6b/component-ota/25/03/20/90c5867f33034f388dc8501e3e727d2d.zip",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.F.25_2250_202503201148",
+      "version_name_coloros": "ColorOS: PHP110_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_15.0.0.1301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3262361f25cb40c81645621d2cac451f/component-ota/25/10/23/9472c30c76fa433bb8fb8f03cab347bf.zip",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.F.29_2290_202510211728",
+      "version_name_coloros": "ColorOS: PHP110_15.0.0.1301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_14.0.0.580(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8f8e637a060cfeeb28da3e5fb56c246b/component-ota/24/12/09/40925b4df867487e972804fd88bbd36f.zip",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.C.43_1430_202412051328",
+      "version_name_coloros": "ColorOS: PHP110_14.0.0.580(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_14.0.0.201(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3ee7941df8d833c4d5b62e6b6701c5dc/component-ota/24/01/29/8de2a5b868e64e0fb0bc91006e21b72d.zip",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.C.32_1320_202401291224",
+      "version_name_coloros": "ColorOS: PHP110_14.0.0.201(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PHP110_13.1.0.172(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加Ace2V",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-252db5e5e6c2dd26932c3e4eb3d93e00/component-ota/23/10/16/3c92854e9dc640f4b25a084f724c1b15.zip",
+      "discovered_at": "2026-04-25T02:37:25.260384",
+      "ota_version": "PHP110_11.A.27_0270_202310141110",
+      "version_name_coloros": "ColorOS: PHP110_13.1.0.172(CN01)",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PHP110_11.A.08_0080_202303091547",
+      "version_name": "PHP110_11.A.08_0080_202303091547",
+      "source": "oplusrom-models",
+      "needsResolve": true
     }
   ]
 }
