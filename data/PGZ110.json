@@ -1,0 +1,85 @@
+{
+  "code": "PGZ110",
+  "model": "PGZ110",
+  "updatedAt": "2026-04-26T03:35:32.469Z",
+  "versionCount": 7,
+  "versions": [
+    {
+      "version_name": "PGZ110_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4841dc313060c4cd29b18d3eb666f9bd/component-ota/25/03/27/fc3b3b1020c643d38c0f9d2d383de8fb.zip",
+      "discovered_at": "2026-04-25T02:37:25.257379",
+      "ota_version": "PGZ110_11.H.13_3130_202503270020",
+      "version_name_coloros": "ColorOS: PGZ110_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGZ110_15.0.0.1600(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e90f34ae9c268bab4c505962e6ce071a/component-ota/26/01/15/b9e24307e1084eb0adbdc9784b7da3e1.zip",
+      "discovered_at": "2026-04-25T02:37:25.257379",
+      "ota_version": "PGZ110_11.H.17_3170_202601122014",
+      "version_name_coloros": "ColorOS: PGZ110_15.0.0.1600(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGZ110_15.0.0.1301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69815e280dddcf5570493a0dd5fb5d9c/component-ota/25/10/21/4f0cfe2627804904905a7bbeba4a9a84.zip",
+      "discovered_at": "2026-04-25T02:37:25.257379",
+      "ota_version": "PGZ110_11.H.16_3160_202510141822",
+      "version_name_coloros": "ColorOS: PGZ110_15.0.0.1301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGZ110_14.0.0.500(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-995f8461e8ff2a1c5a6782be751ebc88/component-ota/24/02/27/217c785beade4bcca7d8ef506cdf95b4.zip",
+      "discovered_at": "2026-04-25T02:37:25.257379",
+      "ota_version": "PGZ110_11.F.32_2320_202402232318",
+      "version_name_coloros": "ColorOS: PGZ110_14.0.0.500(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGZ110_13.1.0.211(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加ACE竞速版",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-feb590dbfe99fa5d84631f9c6ff77c73/component-ota/24/02/01/d078e2d254a3490fb655ff880e4755c7.zip",
+      "discovered_at": "2026-04-25T02:37:25.257379",
+      "ota_version": "PGZ110_11.C.38_1380_202401311712",
+      "version_name_coloros": "ColorOS: PGZ110_13.1.0.211(CN01)",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PGZ110_11.A.13_0130_202302082239",
+      "version_name": "PGZ110_11_A.13",
+      "android_version": "Android 12",
+      "coloros_version": "ColorOS 12.1",
+      "security_patch": "2022-12-05",
+      "status": "found",
+      "published_time": "2023-02-18 19:36:41",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2c15ae20d6dd4acd23928114c6a76413/component-ota/23/02/09/b1018bd460454083a2073b4b86acd311.zip",
+      "size": "5880272199",
+      "md5": "0ccc94eb0b9824252ac594e88e5695fa",
+      "discovered_at": "2026-04-25T15:21:59.362629",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PGZ110_11.C.01_1010_202212151055",
+      "version_name": "PGZ110_11.C.01_1010_202212151055",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
