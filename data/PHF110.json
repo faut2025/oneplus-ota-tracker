@@ -1,0 +1,25 @@
+{
+  "code": "PHF110",
+  "model": "PHF110",
+  "updatedAt": "2026-04-26T03:35:32.472Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PHF110_11.A.08_0080_202311071820",
+      "version_name": "PHF110_13.1.0.222(CN01)",
+      "android_version": "Android 13",
+      "coloros_version": "ColorOS 13.1.0",
+      "security_patch": "2023-11-05",
+      "status": "published",
+      "published_time": 1701435646,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-56565734651b4a7ff793f8cfb6429a07/component-ota/23/11/13/2a04979e98f34f90a29be5b6fc718172.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-56565734651b4a7ff793f8cfb6429a07/component-ota/23/11/13/2a04979e98f34f90a29be5b6fc718172.zip",
+      "size": "6510257541",
+      "md5": "b7c465baac7e1e17f5b0514af8913faa",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-56565734651b4a7ff793f8cfb6429a07/component-ota/23/12/01/63a44a2fc8b4472084ddf7fe4fd1b7e0.html",
+      "discovered_at": "2026-04-25T02:55:43.538792",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
