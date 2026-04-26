@@ -1,0 +1,33 @@
+{
+  "code": "PERM10",
+  "model": "PERM10",
+  "updatedAt": "2026-04-26T03:35:32.462Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PERM10_11.A.00_0010_197001010000",
+      "version_name": "PERM10 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:19.042983",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PERM10_11.A.09_0090_202204071623",
+      "version_name": "PERM10_11_A.09",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.2",
+      "security_patch": "2022-04-05",
+      "status": "found",
+      "published_time": "2022-04-24 16:08:44",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cf2467bf75e4c2cab11890dcfbf79e25/component-ota/22/04/07/ef6cfc73838047968042f91fd8418bc6.zip",
+      "size": "4478689609",
+      "md5": "8a39bf70d9e78b9b65c4e5571153556a",
+      "discovered_at": "2026-04-25T15:21:41.293544",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
