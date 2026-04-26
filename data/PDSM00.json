@@ -1,0 +1,33 @@
+{
+  "code": "PDSM00",
+  "model": "PDSM00",
+  "updatedAt": "2026-04-26T03:35:32.459Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PDSM00_11.A.00_0010_197001010000",
+      "version_name": "PDSM00 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:29.493359",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PDSM00_11.A.21_0210_202203310214",
+      "version_name": "PDSM00_11_A.21",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.1",
+      "security_patch": "2022-04-05",
+      "status": "found",
+      "published_time": "2022-04-18 20:00:08",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1a6546ac43676306cd6b2d4407c7bfab/component-ota/22/03/31/509ee1e7c444423b96eb7458d8fe2a15.zip",
+      "size": "1214291",
+      "md5": "96804ee2f260649f57e94c2d49ed4202",
+      "discovered_at": "2026-04-25T15:21:35.219580",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
