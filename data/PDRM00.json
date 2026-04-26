@@ -1,0 +1,33 @@
+{
+  "code": "PDRM00",
+  "model": "PDRM00",
+  "updatedAt": "2026-04-26T03:35:32.458Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "PDRM00_11.A.00_0010_197001010000",
+      "version_name": "PDRM00 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:29.033374",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PDRM00_11.A.32_0320_202203251349",
+      "version_name": "PDRM00_11_A.32",
+      "android_version": "Android 11",
+      "coloros_version": "ColorOS 11.1",
+      "security_patch": "2022-02-05",
+      "status": "found",
+      "published_time": "2022-04-11 20:34:45",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-2145bf0064744810fb4c5fcec74ef88b/component-ota/22/03/28/6bc598e452fe422e96c0b622f6b8e9ef.zip",
+      "size": "1266742",
+      "md5": "1b4a812e0d5ec5b6e181e0d10f5af371",
+      "discovered_at": "2026-04-25T15:21:33.981256",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
