@@ -1,0 +1,107 @@
+{
+  "code": "PGP110",
+  "model": "PGP110",
+  "updatedAt": "2026-04-26T03:35:32.468Z",
+  "versionCount": 9,
+  "versions": [
+    {
+      "version_name": "PGP110_15.0.0.700(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-14f32976297da00b03e03d38a32a48a3/component-ota/25/04/09/bf00a13b187b4a85bdd2b5c3e2e97676.zip",
+      "discovered_at": "2026-04-25T02:37:25.264489",
+      "ota_version": "PGP110_11.H.17_3170_202504080313",
+      "version_name_coloros": "ColorOS: PGP110_15.0.0.700(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_15.0.0.1800(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-a911a5256723cf132c72112a7f5c0fb5/component-ota/26/04/07/42be06b17cc1411287aeda3f549b3900.zip",
+      "discovered_at": "2026-04-25T02:37:25.264489",
+      "ota_version": "PGP110_11.H.24_3240_202604031956",
+      "version_name_coloros": "ColorOS: PGP110_15.0.0.1800(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_15.0.0.1602(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3216fe6a5fade9cfa40699c836c59b1a/component-ota/26/01/05/ffc1b611f8714843ab5c1afa334800df.zip",
+      "discovered_at": "2026-04-25T02:37:25.263489",
+      "ota_version": "PGP110_11.H.23_3230_202512311444",
+      "version_name_coloros": "ColorOS: PGP110_15.0.0.1602(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_15.0.0.1601(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-006008a4853acbfe4a193b826434bf9d/component-ota/25/11/25/72e3c694ee6c45a49fa64363e8acf229.zip",
+      "discovered_at": "2026-04-25T02:37:25.263489",
+      "ota_version": "PGP110_11.H.22_3220_202511251144",
+      "version_name_coloros": "ColorOS: PGP110_15.0.0.1601(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_15.0.0.1301(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db61acd95ce2b2d29afcb2310f6c0114/component-ota/25/09/10/b33534b89b2b413a83ee65b9f34bb26a.zip",
+      "discovered_at": "2026-04-25T02:37:25.263489",
+      "ota_version": "PGP110_11.H.21_3210_202509051746",
+      "version_name_coloros": "ColorOS: PGP110_15.0.0.1301(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_14.0.0.300(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-06294a61bcc342658ed8c16e7019318c/component-ota/24/01/10/3021494db7a04272a16395d62ae39698.zip",
+      "discovered_at": "2026-04-25T02:37:25.263489",
+      "ota_version": "PGP110_11.F.52_2520_202401100215",
+      "version_name_coloros": "ColorOS: PGP110_14.0.0.300(CN01)",
+      "needsResolve": true
+    },
+    {
+      "version_name": "PGP110_13.1.0.184(CN01)",
+      "source": "oplusrom",
+      "source_repo": "chlink2025/oplusrom",
+      "region_hint": "一加AcePro",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f8e77658367a523c846ffc69d6166549/component-ota/23/10/18/b1157e86207641188e05e50d4be85132.zip",
+      "discovered_at": "2026-04-25T02:37:25.263489",
+      "ota_version": "PGP110_11.C.44_1440_202310162218",
+      "version_name_coloros": "ColorOS: PGP110_13.1.0.184(CN01)",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "PGP110_11.A.18_0180_202302171827",
+      "version_name": "PGP110_11_A.18",
+      "android_version": "Android 12",
+      "coloros_version": "ColorOS 12.1.1",
+      "security_patch": "2023-02-05",
+      "status": "found",
+      "published_time": "2023-03-04 20:21:15",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f807af15b12803ae2e79683a4e677650/component-ota/23/02/18/b57cfcb7265f476686b1bf9975a2f7c6.zip",
+      "size": "6104704830",
+      "md5": "a30c7c2f95c33a5a844a7b00d002b5db",
+      "discovered_at": "2026-04-25T15:21:56.888148",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    },
+    {
+      "ota_version": "PGP110_11.C.01_1010_202209261132",
+      "version_name": "PGP110_11.C.01_1010_202209261132",
+      "source": "oplusrom-models",
+      "needsResolve": true
+    }
+  ]
+}
