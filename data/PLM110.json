@@ -1,0 +1,25 @@
+{
+  "code": "PLM110",
+  "model": "PLM110",
+  "updatedAt": "2026-04-26T03:35:32.482Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PLM110_11.A.25_0250_202509301358",
+      "version_name": "PLM110_15.0.2.701(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-10-01",
+      "status": "published",
+      "published_time": 1760971863,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-0b1a67e27c2778acc9c58e19e577ce5c/component-ota/25/10/08/7fab279ab53d44a390b796c18cddfc92.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-0b1a67e27c2778acc9c58e19e577ce5c/component-ota/25/10/08/7fab279ab53d44a390b796c18cddfc92.zip",
+      "size": "7684724529",
+      "md5": "eadda3e1f6720eee0384c7c49e62262d",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-0b1a67e27c2778acc9c58e19e577ce5c/component-ota/25/10/20/921ba510c6844df3991135074dbb55ca.html",
+      "discovered_at": "2026-04-25T02:54:43.552520",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
