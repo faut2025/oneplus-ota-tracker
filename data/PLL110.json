@@ -1,0 +1,25 @@
+{
+  "code": "PLL110",
+  "model": "PLL110",
+  "updatedAt": "2026-04-26T03:35:32.481Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "PLL110_11.A.23_0230_202601231918",
+      "version_name": "PLL110_15.0.2.810(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2026-02-01",
+      "status": "published",
+      "published_time": 1771927161,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-fd4d118e48718034621a98f84df7173d/component-ota/26/02/03/ed0072be955d439783e0b25c800a589b.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fd4d118e48718034621a98f84df7173d/component-ota/26/02/03/ed0072be955d439783e0b25c800a589b.zip",
+      "size": "7460177295",
+      "md5": "849ce05b1cdb80d0aa47052e8f6a7b3f",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-fd4d118e48718034621a98f84df7173d/component-ota/26/02/24/2cf3feb82ed3493898664df91aabd49c.html",
+      "discovered_at": "2026-04-25T02:55:12.571028",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
