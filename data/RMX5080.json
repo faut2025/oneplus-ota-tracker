@@ -1,0 +1,25 @@
+{
+  "code": "RMX5080",
+  "model": "RMX5080",
+  "updatedAt": "2026-04-26T03:35:32.531Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX5080_11.A.43_0430_202509040230",
+      "version_name": "RMX5080_15.0.0.1003(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-08-01",
+      "status": "published",
+      "published_time": 1758249048,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-3d758afc3336442a260465cefe3d823e/component-ota/25/09/05/2925fde82ca34707b459fdf770ff3acf.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3d758afc3336442a260465cefe3d823e/component-ota/25/09/05/2925fde82ca34707b459fdf770ff3acf.zip",
+      "size": "8541387338",
+      "md5": "6cbde8afb862addea07a382eb3cefe53",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-3d758afc3336442a260465cefe3d823e/component-ota/25/09/19/b8355f89bb294c2f8654b210e80dd818.html",
+      "discovered_at": "2026-04-25T02:56:54.135768",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
