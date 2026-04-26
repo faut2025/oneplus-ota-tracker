@@ -1,0 +1,33 @@
+{
+  "code": "RMX3562",
+  "model": "RMX3562",
+  "updatedAt": "2026-04-26T03:35:32.493Z",
+  "versionCount": 2,
+  "versions": [
+    {
+      "ota_version": "RMX3562_11.A.00_0010_197001010000",
+      "version_name": "RMX3562 - 无可用更新",
+      "source": "ota_query",
+      "status": "no_update",
+      "region": "CN",
+      "discovered_at": "2026-04-25T15:08:52.981575",
+      "needsResolve": true
+    },
+    {
+      "responseCode": 200,
+      "ota_version": "RMX3562_11.A.33_0330_202206011455",
+      "version_name": "RMX3562_11_A.33",
+      "android_version": "Android 12",
+      "coloros_version": "ColorOS 12.1",
+      "security_patch": "2022-05-05",
+      "status": "found",
+      "published_time": "2022-06-08 14:07:21",
+      "download_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-81c3f68b87992a2ceba8cebbcb251065/component-ota/22/06/01/95ad6bdf8ccd497ea718c7cf3e6267f5.zip",
+      "size": "5817645019",
+      "md5": "9cd26cec4f9490d1eb5e3b2da551b64b",
+      "discovered_at": "2026-04-25T15:23:18.195725",
+      "source": "ota_query_v2",
+      "needsResolve": true
+    }
+  ]
+}
