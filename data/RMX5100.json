@@ -1,0 +1,25 @@
+{
+  "code": "RMX5100",
+  "model": "RMX5100",
+  "updatedAt": "2026-04-26T03:35:32.531Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX5100_11.A.37_0370_202510271745",
+      "version_name": "RMX5100_15.0.2.532(CN01)",
+      "android_version": "Android 15",
+      "coloros_version": "ColorOS 15.0.2",
+      "security_patch": "2025-10-01",
+      "status": "published",
+      "published_time": 1764591446,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-eaa0eaf677618f7fff44efad34c77029/component-ota/25/10/28/08d41aadb13e4452a66343a6da022cb6.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-eaa0eaf677618f7fff44efad34c77029/component-ota/25/10/28/08d41aadb13e4452a66343a6da022cb6.zip",
+      "size": "8003447626",
+      "md5": "ba26c2ec17b526a061806480f5072359",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-eaa0eaf677618f7fff44efad34c77029/component-ota/25/12/01/2bdfd2dd3bd244fabe7f2376555bbbf3.html",
+      "discovered_at": "2026-04-25T02:55:53.003153",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
