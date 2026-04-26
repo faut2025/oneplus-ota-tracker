@@ -1,0 +1,25 @@
+{
+  "code": "RMX3800",
+  "model": "RMX3800",
+  "updatedAt": "2026-04-26T03:35:32.514Z",
+  "versionCount": 1,
+  "versions": [
+    {
+      "ota_version": "RMX3800_11.A.44_0440_202501230230",
+      "version_name": "RMX3800_14.1.0.190(CN01)",
+      "android_version": "Android 14",
+      "coloros_version": "ColorOS 14.1.0",
+      "security_patch": "2024-09-05",
+      "status": "published",
+      "published_time": 1738919546,
+      "download_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-6ece0dc73e5667b41c1a628469b4a6b8/component-ota/25/01/23/46c799b23b8748d2a5d0237e71fe6917.zip",
+      "manual_url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6ece0dc73e5667b41c1a628469b4a6b8/component-ota/25/01/23/46c799b23b8748d2a5d0237e71fe6917.zip",
+      "size": "8393627887",
+      "md5": "c291146c9d923c33441a96cf0410d00e",
+      "description_url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-6ece0dc73e5667b41c1a628469b4a6b8/component-ota/25/02/07/f121c3c4dec143c5b76f27b9d2961853.html",
+      "discovered_at": "2026-04-25T02:55:57.139520",
+      "source": "ota_query",
+      "needsResolve": true
+    }
+  ]
+}
